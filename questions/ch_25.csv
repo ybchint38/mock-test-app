@@ -1,0 +1,280 @@
+1
+उस जबन्िु के जनिेशांक ज्ञात कीजिए, िो जबन्िुओ ं(–4, 4) और (4, 0) को जमलाने वाले रेिािण् को आंतररक रूप से 3:1 के अनुपात में जवभाजित करता है।
+Find the coordinates of the point which divides the line segment joining the points (–4, 4) and (4, 0) internally in the ratio 3:1.
+"(0, 4) ","(2, 1) ","(–3, 4) ","(1, 3)"
+(2, 1) 
+ch_25
+
+2
+एक जबन्िु के जनिेशांक, िो (-1, 9) एवं (11, 1) जबंिुओ ंको िोड़ने वाली रेिािंड को आंतररक रूप से 3 : 1के अनुपात में जवभाजित करते हैं, जनम्नजलखित हैं:
+The coordinates of a point, which internally divides the line segment joining the points (-1, 9) and (11, 1) in the ratio 3 : 1, are as follows:
+"(5, 5) ","(13, 5) ","(2, 7) ","(8, 3)"
+(8, 3)
+ch_25
+
+3
+वह अनुपात ज्ञात कीजिए, जिसमें रेिा 4x + y = 13, िो जबन्िुओ ं (1, 6) और (6, 1) को िोड़ने वाले रेिािण् को जवभाजित करती है।
+Find the ratio in which the line 4x + y = 13 divides the line segment joining the two points (1, 6) and (6, 1).
+"1:3 ","2:5 ","2:3 ","1:4"
+1:4
+ch_25
+
+4
+जबन्िुैुओ ं (-1, 0) और (2, 6) से िुड़े हुए रेिािंड को आंतररक रूप से 2 : 1 के अनुपात में जबंिु पर जवभाजित जकया िाता है:
+The line segment joining the points (-1, 0) and (2, 6) is divided internally at the point in the ratio 2 : 1:
+"(0, 4) ","(1, 3) ","(1, 4) ","(0, 5)"
+(1, 4) 
+ch_25
+
+5
+जबंिु (4, 5) और (7, 11) से िुड़ा रेिािंड जकस जबंिु पर अनुपात 2:1 में आंतररक रूप से जवभाजित होगा?
+At which point will the line segment joining the points (4, 5) and (7, 11) be divided internally in the ratio 2:1?
+"(6, 8) ","(5, 10) ","(5, 9) ","(6, 9)"
+(6, 9)
+ch_25
+
+6
+उस जबंिु के जनिेशांक क्या होगं े, िो जबंिु (–7, 6) और (5, 0) िोड़ने वाले रेिािंड को आंतररक रूप से 1:3 के अनुपात में जवभाजित करता है।
+What will be the coordinates of the point which divides the line segment joining the points (–7, 6) and (5, 0) internally in the ratio 1:3.
+"(–3, 4) ","(–4, 4.5) ","(3, 1) ","(1, 3)"
+(–4, 4.5) 
+ch_25
+
+7
+उस जबंिु के जनिेशांक क्या हैं िो जबंिुओ ं(-3,7) और (9, -1) को आंतररक रूप से जमलाने वाली रेिा को 3 : 1 के अनुपात में जवभाजित करती है?
+What are the coordinates of the point which internally divides the line joining the points (-3,7) and (9, -1) in the ratio 3 : 1?
+"(0, 5) ","(6, 1) ","(3, 3) ","(9, 2)"
+(6, 1) 
+ch_25
+
+8
+एक जबंिु जकसी रेिािंड को, जबंिु (4,5) और (-3,3) को िोड़ते हुए आंतररक रूप से 2:3 के अनुपात में जवभाजित करता है। जबंिु के जनिेशांक ज्ञात करें।
+A point divides a line segment joining the points (4,5) and (-3,3) internally in the ratio 2:3. Find the coordinates of the point.
+"11/5, 17/5 ","13/5, 17/5 ","12/5, 13/5 ","6/5, 21/5"
+6/5, 21/5
+ch_25
+
+9
+जबन्िुओ (-5, 5) और (7, -3) वाले रेिा-िण् को आंतररक रूप से 3 : 1 के अनुपात में जवभाजित करने वाले जबंिु के जनिेशांक क्या हैं?
+What are the coordinates of the point which internally divides the line segment consisting of the points (-5, 5) and (7, -3) in the ratio 3 : 1?
+"(-2, 3) ","(4, -1) ","5/2,0 ","(1, 1)"
+(4, -1) 
+ch_25
+
+10
+उस जत्रभुि का क्षेत्रफल ज्ञात कीजिए जिसके जनिेशांक (1, 2), (– 4, –3) और (4, 1) है।
+Find the area of the triangle whose coordinates are (1, 2), (–4, –3) and (4, 1).
+"7 िगण इकाई ","10 िगण इकाई 7 square unit 10 square units ","14 िगण इकाई ","20 िगण इकाई 14 square units 20 square units"
+10 िगण इकाई 7 square unit 10 square units 
+ch_25
+
+11
+(a, b+c), (b, c+a) और (c, a+b) पर शीषण के साथ जत्रभुि का क्षेत्रफल है–
+The area of the triangle with vertex at (a, b+c), (b, c+a) and (c, a+b) is –
+"ab + bc + ca ","0 ","a–b–c ","a + b + c"
+0 
+ch_25
+
+12
+(3, 5), (–2, 0) और (6,4) शीषों वाले जत्रभुि का क्षेत्रफल जकतना होगा?
+What will be the area of the triangle with vertices (3, 5), (–2, 0) and (6, 4)?
+"20 िगण इकाई ","7 िगण इकाई 20 square units 7 square unit ","10 िगण इकाई ","14 िगण इकाई 10 square units 14 square units"
+10 िगण इकाई 
+ch_25
+
+13
+यजि A = (1, 1), B = (-2, 7) और C = (3, -3) हैं, तो- If A = (1, 1), B = (-2, 7) and C = (3, -3), then-
+
+"31√5/150 ","31/60 ","150/31 ","31/150"
+31√5/150 
+ch_25
+
+14
+शीषों (4, 1), (1, 1), (3, 5) द्वारा जनजमणत जत्रभुि होगा:
+The triangle formed by the vertices (4, 1), (1, 1), (3, 5) will be:
+"समद्धिबाह परंतु समकोर् नही ं ","समकोर् परंतु समद्धिबाह isosceles but not at right वत्रभुज नही ं angles right angled but not isosceles triangle ","समद्धिबाह और समकोर् ","विषम बाह वत्रभुज वत्रभुज odd sided triangle Isosceles and right triangles"
+विषम बाह वत्रभुज वत्रभुज odd sided triangle Isosceles and right triangles
+ch_25
+
+15
+उस जत्रभुि का क्षेत्रफल ज्ञात करें जिसके शीषण (2,4), (–3,–1) और (5, 3) जिए हुए हो :
+Find the area of the triangle whose vertices are (2,4), (– 3,–1) and (5, 3):
+"7 िगण इकाई ","14 िगण इकाई 7 square unit 14 square units ","20 िगण इकाई ","10 िगण इकाई 20 square units 10 square units"
+10 िगण इकाई 20 square units 10 square units
+ch_25
+
+16
+समीकरर् 6x – 3y + 10 = 0 और 2x – y + 9 = 0 द्वारा जकस प्रकार की रेिाओ ंको जनरूजपत जकया िाता है?
+What type of lines are represented by the equations 6x – 3y + 10 = 0 and 2x – y + 9 = 0?
+"संपाती ","समानांतर conclusion parallel ","प्रवतच्छेदी ","वनधाणररत नही ंवकया जा सकता intersecting cannot be determined"
+समानांतर conclusion parallel 
+ch_25
+
+17
+प्रवर्ता = –4 और y– प्रजतच्छेि=२ होने वाली रेिा का समीकरर् ज्ञात करें–
+Find the equation of the line whose slope = –4 and y- intercept = 2 –
+"","","",""
+
+ch_25
+
+18
+यजि िो सीिी रेिाएां x - 5y = 2 तथाण x + 2y = 9, जबंिु A पर एक-िूसरे को काटती हैं और क्रमशः B और C जबंिु पर िनात्मकण X-अक्ष काटती हैं, तो जत्रभुि ABC का क्षेत्रफल ज्ञात करें?
+If two straight lines x – 5y = 2 and x + 2y = 9 intersect each other at point A and cut the positive X-axis at points B and C respectively, then find the area of triangle ABC?
+"3.2 िगण इकाई ","3.5 िगण इकाई 3.2 square unit 3.5 square units ","3.7 िगण इकाई ","3.1 िगण इकाई 3.7 square units 3.1 square unit"
+3.5 िगण इकाई 3.2 square unit 3.5 square units 
+ch_25
+
+19
+नीचे िी गई आकृजत में, 12 cm भुिा वाला एक समबाहु △ ABC है। यजि AD, BE और CF, △ABC की माखध्यकाएँ हैं, तो AD+BE + CF=?
+In the figure given below, there is an equilateral △ABC of side 12 cm. If AD, BE and CF are the medians of △ABC, then AD+BE + CF=?
+"25√3cm ","16√3cm ","12√3cm ","18√3cm"
+18√3cm
+ch_25
+
+20
+जिये गये जचत्र का अध्ययन करें- जिये गये वृत्तो ंके केन्द्रो ंके बीच की िूरी क्या है?
+Study the given figure. What is the distance between the centres of the given circles?
+"5√3cm ","5√5cm ","5√4cm ","5√2cm"
+5√5cm 
+ch_25
+
+21
+िो वृत्त एक िूसरे को बाहत: जकसी जबंिु X पर स्पशण करते हैं । AB, जबंिु A और जबंिु B पर वृत्तो ंको स्पशण करने वाले िोनो ंवृत्तो ंकी उभयजनष् अनुस्पशण रेिा है। यजि वृत्तो ंकी जत्रज्याएँ क्रमश: 16cm और 4 cm हैं, तो AB की लंबाई क्या होगी?
+Two circles touch each other at some point X. AB is the common tangent to both the circles touching the circles at point A and point B. If the radii of the circles are 16cm and 4 cm respectively, then what will be the length of AB?
+"1.8 cm ","256 cm ","64 cm ","16 cm"
+16 cm
+ch_25
+
+22
+10 सेमी और 8 सेमी जत्रज्या के िो संकेंजद्रत वृत्त जिए गए हैं, बड़े वृत्त की िीवा की लंबाई ज्ञात कीजिए िो छोटे वृत्त को स्पशण करती है।
+Given two concentric circles of radii 10 cm and 8 cm, find the length of the chord of the larger circle which touches the smaller circle.
+"14 सेमी ","12 सेमी 14 cm 12 cm ","8 सेमी ","10 सेमी 8 cm 10 cm"
+12 सेमी 14 cm 12 cm 
+ch_25
+
+23
+एक 20 सेमी व्यास के वृत्त की िो समानांतर िीवाएँ क्रमश: 16 सेमी और 12 सेमी हैं। यजि िोनो ंिीवाएँ व्यास के एक ही ओर हो,ं तो इन िीवाओ ंके बीच की िूरी क्या है?
+Two parallel chords of a circle of diameter 20 cm are 16 cm and 12 cm respectively. If both the chords are on the same side of the diameter, then what is the distance between these chords?
+"3 सेमी ","1.5 सेमी . 3 cm 1.5 cm ","2 सेमी . ","1 सेमी . 2 cm. 1 cm."
+2 सेमी . 
+ch_25
+
+24
+जनम्नजलखित आकृजत में, 0 वृत्त का केन्द्र है, यजि OP = 5 सेमी. और वृत्त की जत्रज्या 3 सेमी है तो स्पशण रेिा PT की लम्बाई ज्ञात कीजिए।
+In the following figure, O is the center of the circle. If OP = 5 cm and radius of the circle is3 cm, find the length of the tangent PT.
+"6 cm ","4 cm ","3 cm ","5 cm"
+4 cm 
+ch_25
+
+25
+2 सेमी. और 5 सेमी. जत्रज्या वाले िो वृत्तो ंकी अनुप्रि उभयजनष् स्पशणरेिा की लम्बाई है जिनका केन्द्र 8 सेमी. है।
+The length (in cm) of the transverse common tangent to two circles of radii 2 cm and 5 cm, the center of the circles being 8 cm apart, is:
+"√7 ","√15 ","15 ","1"
+√15 
+ch_25
+
+26
+12 सेमी. व्यास वाले एक वृत्त में 10 सेमी. लम्बाई वाली िो समानान्तर िीवाओ ंके बीच की िूरी (सेमी. में) है।
+The distance between two parallel chords of length 10 cm, each in a circle of diameter 12 cm, is :
+"11 cm ","2√11cm ","√6cm ","26 cm"
+2√11cm 
+ch_25
+
+27
+यजि 11 सेमी. जत्रज्या वाले वृत्त की एक िीवा 7 सेमी. जत्रज्या वाले िूसरे वृत्त की स्पशण रेिा है। िोनो ंवृत्त संकेखन्द्रत है तो िीवा की लम्बाई है।
+If a chord of a circle of radius 11 cm is a tangent to another circle of radius 7 cm, both the circles being concentric, then the length of the chord is:
+"12√2 cm ","3√8 cm ","6√8 cm ","8√3 cm"
+12√2 cm 
+ch_25
+
+28
+जिये गये जचत्र में सभी माप सेमी है तो a और b का माप (सेमी. में) क्या होगा ?
+In the given figure, all measurements are in centimetres. What are the values of a and b (both in cm), respectively?
+"26,10 ","31.2, 28.8 ","10, 26 ","28.8, 31.2"
+28.8, 31.2
+ch_25
+
+29
+△PQR और △STU, कोर् भुिा-कोर् (ASA) के अन्तगणत एक सवाांगसम जत्रभुि है। क्रमशः x और y का मान क्या होगा? △PQR and △
+STU are congruent triangles under ASA. What are the values of x and y, respectively?
+"90° and 30° ","30° and 90° ","45° and 75° ","75° and 45°"
+30° and 90° 
+ch_25
+
+30
+△ABC में,∠ B = 90 deg और BD | AC. यजि AC = 9 समी. और AD = 3 समी., तो BD का मान होगा- In △ABC, ∠B =
+90 deg and BD | AC. If AC = 9 cm and AD = 3 cm, then BD is equal to :
+"2√3cm ","3√3cm ","2√2cm ","3√2cm"
+3√2cm
+ch_25
+
+31
+यजि जत्रभुि ABC, जत्रभुि DEF के सवाणगसम है तो EF = …………
+If triangle ABC is congruent to triangle DEF, then EF =………………
+"9 ","5 ","6 ","4"
+6 
+ch_25
+
+32
+जनम्नजलखित आरेि में x का मान ज्ञात कीजिए, िहाँ िोनो ंरेिाएँ वृत्त की िीवाओ ंको िशाणती है और जबन्िु वृत्त के केंद्र को िशाणता है। यजि a = b = x और c = 36 और d =
+14 Find the value of x in the following diagram, where both the lines represent chords of the circle and the dot represents the center of the circle. If a = b = x and c = 36 and d = 14
+"30 ","36 ","50 ","14"
+30 
+ch_25
+
+33
+नीचे िी गई आकृजत में, यजि DE, AC के समानांतर है, BE = 2EC और DE = 12 है, AC जकसके बराबर है?
+In the figure given below, if DE is parallel to AC, BE = 2EC and DE = 12, what is AC equal to?
+"12 ","10 ","18 ","14"
+18 
+ch_25
+
+34
+यजि △ABC और △PQR में AB =
+8 cm, BC = 10 cm, AC = 12cm, PQ = 8 cm QR = 10 cm और PR = 12 cm है, तो जनम्नजलखित में से कौन-सा जवकल् सत्य है? If in △ABC and △PQR AB = 8 cm, BC = 10 cm, AC = 12cm, PQ = 8 cm QR = 10 cm and PR = 12 cm, then which of the following options is true?
+"△ABC ≅ △PQR ","△ABC ≅ △RPQ ","△ABC ≅ △QRP ","△ABC ≅ △QPR"
+△ABC ≅ △PQR 
+ch_25
+
+35
+आकृजत में, यजि AB || DE; AB =
+8 cm, DE = 6cm और AC = 18 cm; और DE, BC पर लंबवत है; तो AB : CD का अनुपात जकतना है? In the figure, if AB || DE; AB = 8 cm, DE = 6cm and AC = 18 cm; And DE is perpendicular to BC; Then what is the ratio of AB : CD?
+"4 : 3 ","3 : 4 ","16 : 27 ","9 : 4"
+16 : 27 
+ch_25
+
+36
+एक जत्रभुि ABC में, D और E जबंिु क्रमश: AB और AC पर इस प्रकार हैं जक AD = ⅓ AB और AE = ⅓ AC है। यजि BC = 18 cm है, तो DE की लंबाई ज्ञात कीजिए।
+In a triangle ABC, D and E are points on AB and AC respectively such that AD = ⅓ AB and AE = ⅓ AC. If BC = 18 cm, find the length of DE.
+"12 cm ","6 cm ","3 cm ","18 cm"
+6 cm 
+ch_25
+
+37
+एक समकोर् △ABC में, यजि ∠ABC = 90°, BN, AC पर लंबवत है, AB = 12 cm, और AC = 20 cm है, तो AN : NC ज्ञात कीजिए।
+In a right angle △ABC, if ∠ABC = 90°, BN is perpendicular to AC, AB = 12 cm, and AC = 20 cm, then find AN : NC.
+"2 : 3 ","1 : 4 ","3 : 1 ","9 : 16"
+9 : 16
+ch_25
+
+38
+यजि ABCD एक वगण है और DEC एक समबाहु जत्रभुि है, तो ∠DAE का माप क्या होगा ?
+If ABCD is a square and DEC is an equilateral triangle, then what will be the measure of ∠DAE?
+"15° ","60° ","45° ","30°"
+15° 
+ch_25
+
+39
+△ABC में, AB = BC और D, E, F क्रमश: भुिाओ ंAB, BC और AC के मध्य जबंिु हैं। यजि DF = 5 cm, तो EE जनम्न में से जकसके बराबर है? In △ABC, AB =
+BC and D, E, F are the mid-points of sides AB, BC and AC respectively. If DF = 5 cm, then EE is equal to which of the following?
+"4 cm ","3 cm ","2 cm ","5 cm"
+5 cm
+ch_25
+
+40
+△PQR में PQ = PR और PQ पर $ जबंिु ऐसी खिजत में है जक PS = RS = QR, तो ∠QPR का मान जकतना होगा ? In △PQR, PQ = PR and $
+point on PQ is such that PS = RS = QR, then what will be the value of ∠QPR?
+"72º ","60º ","36º ","23º "
+36º 
+ch_25
+

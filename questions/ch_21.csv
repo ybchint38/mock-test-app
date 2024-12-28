@@ -1,0 +1,630 @@
+1
+एक समकोर् जत्रभुि में, ज्याजमतीय आिार से, लम्ब 4 सेमी बड़ा है और कर्ण उससे 4 सेमी बड़ा है, कर्ण की लम्बाई की गर्ना कीजिए।
+In a right angled triangle, from the geometrical basis, the perpendicular is 4 cm larger and the hypotenuse is 4 cm larger than that, calculate the length of the hypotenuse.
+"12 सेमी. ","10 सेमी. 12 cm. 10 cm. ","20 सेमी. ","8 सेमी. 20 cm. 8 cm."
+20 सेमी. 
+ch_21
+
+2
+एक समजद्वबाहु जत्रभुि का पररमाप 32 सेमी है। इसका आिार, समान भुिाओ ंका 6/5 गुना है। क्षेत्रफल ज्ञात कीजिए।
+The perimeter of an isosceles triangle is 32 cm. Its base is 6/5 times the equal sides. Find the area.
+"32 सेमी² ","64 सेमी² 32 cm² 64 cm² ","48 सेमी² ","57 सेमी² 48 cm² 57 cm²"
+48 सेमी² 
+ch_21
+
+3
+यजि जकसी जत्रभुि का पररमाप 28 सेमी है। इसकी अन्तःजत्रज्या 3.5 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।
+If the perimeter of a triangle is 28 cm. Its inner radius is 3.5 cm. Find its area.
+"49 सेमी² ","28 सेमी² 49 cm² 28 cm² ","35 सेमी² ","42 सेमी² 35 cm² 42 cm²"
+49 सेमी² 
+ch_21
+
+4
+िो समरुप जत्रभुिो ंमें उनकी संगत भुिाओ ं का अनुपात 1: 3 है अ ैौर बड़े जत्रभुि का क्षेत्रफल 72 वगण सेमी है। छोटे जत्रभुि का क्षेत्रफल ज्ञात कीजिए।
+In two similar triangles, the ratio of their corresponding sides is 1:3 and the area of the larger triangle is 72 square cm. Find the area of the smaller triangle.
+"18 िगण सेमी ","8 िगण सेमी 18 square cm 8 square cm ","14 िगण सेमी ","9 िगण सेमी 14 square cm 9 square cm"
+8 िगण सेमी 18 square cm 8 square cm 
+ch_21
+
+5
+एक समबाहु जत्रभुि का शीषणलम्ब 15 cm है। इस जत्रभुि का क्षेत्रफल क्या होगा?
+The altitude of an equilateral triangle is 15 cm. What will be the area of this triangle?
+"60 cm² ","75√3 cm² ","90 cm² ","60√3 cm²"
+75√3 cm² 
+ch_21
+
+6
+यजि िो समान जत्रभुिो ंकी समरूप भुिाओ ंका अनुपात 2 : 3 है, तो उनकी समरूप ऊंचाईयो ंका अनुपात क्या होगा?
+If the ratio of similar sides of two similar triangles is 2 : 3, then what will be the ratio of their similar heights?
+"2 : 3 ","3 : 2 ","4 : 9 ","16 : 81"
+2 : 3 
+ch_21
+
+7
+एक समकोर् जत्रभुि के कर्ण की लम्बाई, सबसे छोटी भुिा की िुगनी लम्बाई से 2 मीटर कम है। यजि तीसरी भुिा सबसे छोटी भुिा से 2 मीटर अजिक लम्बी हो, तो जत्रभुि के कर्ण की लंबाई क्या है?
+The length of the hypotenuse of a right triangle is 2 meters less than twice the length of the shortest side. If the third side is 2 meters longer than the shortest side, then what is the length of the hypotenuse of the triangle?
+"10 मी. ","13 मी. 10 m. 13 m. ","12 मी. ","7 मी. 12 m. 7 m."
+10 मी. 
+ch_21
+
+8
+एक आयत जिसके आयाम 4 cm और 5 cm है, को मोड़कर एक समबाहु जत्रभुि बनाया िाता है। इस प्रकार जनजमणत समबाहु जत्रभुि का क्षेत्रफल जकतना होगा?
+A rectangle whose dimensions are 4 cm and 5 cm is folded to form an equilateral triangle. What will be the area of the equilateral triangle formed in this way?
+"9√3 cm² ","3√3 cm² ","6√3 cm² ","9/4 √3 cm²"
+9√3 cm² 
+ch_21
+
+9
+एक आयत जिसका आयाम 4 cm और 2 cm है, उसे एक समबाहु जत्रभुि बनाने के जलए मोड़ा िाता है। इस प्रकार से बनी समबाहु जत्रभुि का क्षेत्रफल क्या होगा?
+A rectangle whose dimensions are 4 cm and 2 cm is folded to form an equilateral triangle. What will be the area of the equilateral triangle formed in this way?
+"4√3 cm² ","6√3 cm² ","9/4 √3 cm² ","2√3 cm²"
+4√3 cm² 
+ch_21
+
+10
+एक जत्रभुि की तीन भुिाएं
+5 cm, 12 cm और 13 cm हैं। इस जत्रभुि की तीनो ं भुिाओ ं के मध्य जबंिु को िोड़कर एक छोटा जत्रभुि बनाया िाता है। छोटे जत्रभुि का क्षेत्रफल ––––––cm² है। The three sides of a triangle are 5 cm, 12 cm and 13 cm. A smaller triangle is formed by connecting the midpoints of the three sides of this triangle. The area of the smaller triangle is ––––––cm².
+"15 ","30 ","7.5 ","32.5"
+7.5 
+ch_21
+
+11
+भूजम का एक जत्रभुिाकार भाग जिसकी भुिाएं क्रमश:
+72 m, 30 m और 78 m हैं, को 20 पैसे प्रजत वगण मीटर की िर से समतल करने की लागत क्या है? What is the cost of leveling a triangular piece of land whose sides are 72 m, 30 m and 78 m respectively at the rate of 20 paise per square metre?
+"200 ","210 ","216 ","220"
+216 
+ch_21
+
+12
+जत्रकोर् के भुि क्रमश: 16 मीटर, 12 मीटर और 20 मीटर हैं। इसके सबसे लंबे भुि की लम्बाई ज्ञात करें।
+The sides of the triangle are 16 m, 12 m and 20 m respectively. Find the length of its longest side.
+"9.2 मीटर ","9.6 मीटर 9.2 meters 9.6 meters ","9.4 मीटर ","9.8 मीटर 9.4 meters 9.8 meters"
+9.6 मीटर 9.2 meters 9.6 meters 
+ch_21
+
+13
+एक जत्रभुि का क्षेत्रफल ज्ञात करें यजि उसके िो आयाम और पररजि क्रमश:
+9 cm, 11 cm और 34 cm हैं ? Find the area of a triangle if its two dimensions and perimeter are 9 cm, 11 cm and 34 cm respectively?
+"17√12 sq.cm ","12√15 sq.cm ","12√17 sq.cm ","15√17 sq.cm"
+12√17 sq.cm 
+ch_21
+
+14
+एक जत्रभुि का क्षेत्रफल, जिसकी भुिाएं 7.
+8 cm, 5 cm और 11.2 cm है: The area of a triangle whose sides are 7.8 cm, 5 cm and 11.2 cm is:
+"18 ","16.8 ","17.4 ","12"
+16.8 
+ch_21
+
+15
+जत्रकोर् MNP जत्रकोर् DEF के समरूप है। जत्रकोर् MNP का क्षेत्रफल 1024 cm² है और जत्रकोर् DEF का क्षेत्रफल 144 cm² है। यजि जत्रकोर् MNP की सबसे लंबी भुिा 64 cm है, तो जत्रकोर् DEF की सबसे लंबी भुिा क्या है?
+Triangle MNP is similar to triangle DEF. The area of triangle MNP is 1024 cm² and the area of triangle DEF is 144 cm². If the longest side of triangle MNP is 64 cm, then what is the longest side of triangle DEF?
+"32 cm ","28 cm ","20 cm ","24 cm"
+24 cm
+ch_21
+
+16
+समकोर् जत्रभुि की ऊंचाई और आिार के बीच का अंतर 7 cm है और उस जत्रभुि का क्षेत्रफल 30 sq.cm है। जत्रभुि का पररमाप ज्ञात कीजिए।
+The difference between the altitude and base of a right angled triangle is 7 cm and the area of that triangle is 30 sq.cm. Find the perimeter of the triangle.
+"13 cm ","12 cm ","30 cm ","25 cm"
+30 cm 
+ch_21
+
+17
+एक समबाहु जत्रभुि का क्षेत्रफल का संख्यात्मक मान इसके पररमाप के संख्यात्मक मान का िोगुना है। उपरोक्त जत्रभुि का क्षेत्रफल क्या है?
+The numerical value of the area of an equilateral triangle is twice the numerical value of its perimeter. What is the area of the above triangle?
+"48 cm² ","24 √3 cm² ","48 √3 cm² ","36 √3 cm²"
+48 √3 cm² 
+ch_21
+
+18
+िो समरूप जत्रभुिो ं का क्षेत्रफल 169 cm² और 121 cm² है। यजि बड़े जत्रभुि की सबसे बड़ी भुिा 26 हैं, तब िूसरे जत्रभुि की सबसे बड़ी भुिा है-
+The areas of two similar triangles are 169 cm² and 121 cm². If the longest side of the larger triangle is 26, then the longest side of the second triangle is-
+"26 cm. ","18 cm. ","28 cm. ","22 cm."
+22 cm.
+ch_21
+
+19
+एक समबाहु जत्रभुि इस प्रकार से बनाया गया है जक जत्रभुि के िो शीषण एक वृत्त के व्यास पर लगते है। यजि वृत्त का क्षेत्रफल 64 π हैं, तो जत्रभुि की भुिा क्या होगी?
+An equilateral triangle is built in such a way that the two vertices of the triangle lie on the diameter of a circle. If the area of the circle is 64 π, then what will be the side of the triangle?
+"16 ","8 ","16√3 ","8√3"
+16 
+ch_21
+
+20
+एक जत्रभुि का पररमाप 100 सेमी. है। यजि इसकी िो भुिाएँ बराबर है और तीसरी भुिा बराबर भुिाओ ं से 10 अजिक है, तीसरी भुिा की लंबाई जकतनी है?
+The perimeter of a triangle is 100 cm. Is. If two of its sides are equal and the third side is 10 more than the equal sides, what is the length of the third side?
+"30 ","25 ","40 ","36"
+40 
+ch_21
+
+21
+एक समकोर् जत्रकोर् का क्षेत्रफल 30 वगण मी है। यजि ऊँचाई आिार (base) से 7 मी अजिक होती है, तो उसका आिार (base) ज्ञात कीजिए।
+The area of a right triangle is 30 square metres. If the height is 7 m more than the base, then find its base.
+"5 मी. ","12 मी. 5 m. 12 m. ","7 मी. ","9 मी. 7 m. 9 m."
+5 मी. 
+ch_21
+
+22
+एक जत्रभुि का पररमाप 200 सेमी है। यजि इसकी िो भुिाएँ बराबर है तथा तीसरी भुिा बराबर वाली भुिाओ ं से 20 सेमी अजिक है, तो तीसरी भुिा की लंबाई जकतनी होगी?
+The perimeter of a triangle is 200 cm. If its two sides are equal and the third side is 20 cm more than the equal sides, then what will be the length of the third side?
+"60 ","50 ","80 ","70"
+80 
+ch_21
+
+23
+यजि एक समबाहु जत्रभुि की भुिा 4 यूजनट है, तो उसका क्षेत्रफल जकतना होगा?
+If the side of an equilateral triangle is 4 units, what will be its area?
+"16/√3 िगण यूवनट ","4√3 िगण यूवनट 16/√3 square units 4√3 square units ","2/√3 िगण यूवनट ","√3 िगण यूवनट 2/√3 square units √3 square units"
+4√3 िगण यूवनट 16/√3 square units 4√3 square units 
+ch_21
+
+24
+उस जत्रभुि का क्षेत्रफल ज्ञात कीजिए जिसकी भुिाएँ 5 सेमी, 12 सेमी तथा 13 सेमी हैं।
+Find the area of the triangle whose sides are 5 cm, 12 cm and 13 cm.
+"46 िगण सेमी. ","42 िगण सेमी. 46 square cm. 42 square cm. ","30 िगण सेमी. ","38 िगण सेमी. 30 square cm. 38 square cm."
+30 िगण सेमी. 
+ch_21
+
+25
+एक जत्रभुि का क्षेत्रफल 456 वगण सेमी है इसकी ऊँचाई 24 सेमी है, तो इसके आिार की लम्बाई है:
+The area of a triangle is 456 square cm, its height is 24 cm, then the length of its base is:
+"32 ","36 ","34 ","38"
+38
+ch_21
+
+26
+िो समरूप जत्रभुिो ंके क्षेत्रफल क्रमश: 121 वगण मी और 64 वगण मी हैं। यजि पहले जत्रभुि की माखध्यका 12.1 मी है, तो िूसरे जत्रभुि की माखध्यका होगी–
+The areas of two similar triangles are 121 sq m and 64 sq m respectively. If the median of the first triangle is 12.1 m, then the median of the second triangle will be –
+"6.4 मी ","8.4 मी 6.4 m 8.4 m ","8.8 मी ","9.2 मी 8.8 m 9.2 m"
+8.8 मी 
+ch_21
+
+27
+एक समकोर् जत्रभुि में कर्ण, लम्बवत् भुिा से 4 सेमी अजिक है िो जक आिार से 4 सेमी अजिक है। लम्बवत् भुिा की लम्बाई ज्ञात करें।
+In a right triangle the hypotenuse is 4 cm more than the perpendicular side which is 4 cm more than the base. Find the length of the perpendicular side.
+"12 सेमी. ","16 सेमी. 12 cm. 16 cm. ","20 सेमी. ","8 सेमी. 20 cm. 8 cm."
+16 सेमी. 12 cm. 16 cm. 
+ch_21
+
+28
+11 सेमी, 7 सेमी और 14 सेमी की भुिाओ एक जत्रभुि का क्षेत्रफल ज्ञात कीजिए ।
+Find the area of a triangle whose sides are 11 cm, 7 cm and 14 cm.
+"7√22 ","11√8 ","12√10 ","12√3"
+12√10 
+ch_21
+
+29
+एक समकोर् जत्रभुि में कर्ण 2 सेमी अजिक है, लम्ब से और लम्ब, आिार से 2 सेमी अजिक है। आिार की लंबाई ज्ञात करें–
+In a right triangle the hypotenuse is 2 cm more than the perpendicular and the perpendicular is 2 cm more than the base. Find the length of the base –
+"6 cm. ","9 cm. ","10 cm. ","8 cm."
+6 cm. 
+ch_21
+
+30
+जकसी समकोर् जत्रभुि में कर्ण, लम्ब से 2 सेमी लम्बा है और लम्ब आिार से 2 सेमी लम्बा है। लम्ब की लम्बाई ज्ञात कीजिए।
+In a right triangle, the hypotenuse is 2 cm longer than the perpendicular and the perpendicular is 2 cm longer than the base. Find the length of the perpendicular.
+"6 सेमी. ","9 सेमी. 6 cm. 9 cm. ","10 सेमी. ","8 सेमी. 10 cm. 8 cm."
+8 सेमी. 10 cm. 8 cm.
+ch_21
+
+31
+16√3 वगण यूजनट के क्षेत्रफल वाले एक समभुि जत्रभुि के जलए उसके अन्तः वृत्त और पररवृत (
+incircle and circumcircle) की जत्रज्याओ ंका अनुपात क्या है? For an equilateral triangle with area of 16√3 square units, what is the ratio of the radii of its incircle and circumcircle?
+"1/2 ","1/4 ","1/3 ","2/3"
+1/2 
+ch_21
+
+32
+तीन जत्रभुिो ं को एक बड़े जत्रभुि के तीनो ं कोनो ं में से इस तरह बनाया गया है जक प्रत्येक छोटे जत्रभुि की प्रत्येक भुिा बड़े जत्रभुि की अनुरूप भुिा की एक चौथाई है। तीन छोटे जत्रभुिो ंके कुल क्षेत्रफल और बड़े जत्रभुि के शेष क्षेत्रफल के बीच का अनुपात जकतना है?
+Three triangles are created from the three corners of a larger triangle in such a way that each side of each smaller triangle is one-fourth of the corresponding side of the larger triangle. What is the ratio between the total area of the three smaller triangles and the remaining area of the larger triangle?
+"3 : 13 ","1 : 5 ","3 : 16 ","4 : 15"
+3 : 13 
+ch_21
+
+33
+यजि समजद्वबाहु जत्रकोर् के िोनो ं बराबर कोर् तीसरे कोर् से िोगुने हैं, तो तीसरे कोर् का माप जकतना है?
+If both equal angles of an isosceles triangle are twice the third angle, then what is the measure of the third angle?
+"90º ","72º ","45º ","36º"
+36º
+ch_21
+
+34
+जकसी बड़े जत्रभुि के शीषों पर तीन छोटे जत्रभुि इस प्रकार से बनाये गये हैं जक छोटे जत्रभुि की प्रत्येक भुिा उसके अपने ही बड़े ही जत्रभुि की भुिा की लंबाई के एक जतहाई के बराबर है। तीनो ं छोटे जत्रभुिो ंके क्षेत्रफलो ंके योग और बड़े जत्रभुि के क्षेत्रफल का अनुपात क्या होगा?
+Three smaller triangles are built on the vertices of a larger triangle in such a way that each side of the smaller triangle is equal to one third of the length of the side of its own larger triangle. What will be the ratio of the sum of the areas of the three smaller triangles and the area of the larger triangle?
+"3 : 1 ","1 : 3 ","1 : 9 ","1 : 2"
+1 : 3 
+ch_21
+
+35
+एक समबाहु जत्रभुि ABC की भुिा 6 सेंटीमीटर है। यजि 1 सेंटीमीटर जत्रज्या वाला एक वृत्त जत्रभुि के भीतर जकनारो ंके साथ बना हुआ है, तो वृत्त के केन्द्र का जबन्िु ......... की भुिा वाला एक समबाहु जत्रभुि होगा।
+The side of an equilateral triangle ABC is 6 cm. If a circle of radius 1 cm is inscribed with the edges inside a triangle, then the center point of the circle will be an equilateral triangle with side ………….
+"4 सेंटीमीटर ","(6 - 2√3) सेंटीमीटर 4 centimeters (6 - 2√3) centimeters ","5 सेंटीमीटर ","(3 + √3) सेंटीमीटर 5 centimeters (3 + √3) centimeters"
+(6 - 2√3) सेंटीमीटर 4 centimeters (6 - 2√3) centimeters 
+ch_21
+
+36
+एक बड़े जत्रभुि के तीनो ं शीषों से तीन छोटे जत्रभुि इस प्रकार अंजकत जकए िाते हैं जक प्रत्येक छोटे जत्रभुि की प्रत्येक भुिा उसकी आसन्न बड़े जत्रभुि की भुिा की 2/5 है। तीनो ंछोटे जत्रभुिो ं के कुल क्षेत्रफल से बड़े जत्रभुि के शेष भाग के क्षेत्रफल का अनुपात है–
+Three smaller triangles are drawn from the three vertices of a larger triangle in such a way that each side of each smaller triangle is 2/5 of the side of its adjacent larger triangle. The ratio of the area of the remaining part of the larger triangle to the total area of the three smaller triangles is –
+"12 : 13 ","1 : 5 ","12 : 25 ","4 : 25"
+12 : 13 
+ch_21
+
+37
+एक समानांतर चतुभुणि का आिार इसकी ऊँचाई से िोगुना है। यजि समानांतर चतुभुणि का क्षेत्रफल 392 वगण मीटर है, तो इसकी ऊँचाई जकतनी होगी?
+The base of a parallelogram is twice its height. If the area of the parallelogram is 392 square metres, what will be its height?
+"14 मीटर ","28 मीटर 14 meters 28 meters ","12 मीटर ","24 मीटर 12 meters 24 meters"
+14 मीटर 
+ch_21
+
+38
+समलम्ब चतुभुणि की आकृजत वाले एक िेत का क्षेत्रफल 1440 वगण मीटर है। समान्तर भुिाओ ंके बीच की लंबवत िूरी 24 मीटर है। समान्तर भुिाओ ेंका अनुपात 5 : 3 है। लंबी समान्तर भुिा की लंबाई ज्ञात कीजिए।
+The area of a field in the shape of a trapezium is 1440 square meters. The perpendicular distance between parallel sides is 24 metres. The ratio of parallel sides is 5 : 3. Find the length of the longer parallel side.
+"30 मीटर ","60 मीटर 30 meters 60 meters ","45 मीटर ","75 मीटर 45 meters 75 meters"
+75 मीटर 45 meters 75 meters
+ch_21
+
+39
+एक चतुभुणि की िो भुिाएँ 16 सेमी और 12 सेमी हैं और उनके मध्य का कोर् 90° है। उसकी अन्य िोनो ं भुिाएँ 25/2 सेमी प्रत्येक हैं। चतुभुणि के अन्य तीनो ंकोर् समकोर् नही ंहैं। चतुभुणि का क्षेत्रफल जकतना है?
+The two sides of a quadrilateral are 16 cm and 12 cm and the angle between them is 90°. Its other two sides are 25/2 cm each. The other three angles of the quadrilateral are not right angles. What is the area of the quadrilateral?
+"202 सेमी² ","151 सेमी² 202 cm² 151 cm² ","193 सेमी² ","171 सेमी² 193 cm² 171 cm²"
+171 सेमी² 193 cm² 171 cm²
+ch_21
+
+40
+यजि जकसी समचतुभुणि की एक भुिा और िो में से एक जवकर्ण प्रत्येक 16 cm हैं, तो समचतुभुणि की क्षेत्रफल cm² से जकतना होगा?
+If one side and one of the two diagonals of a rhombus are each 16 cm, then what will be the area of the rhombus in cm²?
+"64√3 ","256√3 ","128 ","128√3"
+128√3
+ch_21
+
+41
+एक समचतुभुणि का क्षेत्रफल 216 cm² और इसके एक जवकर्ण की लंबाई 24 cm है। समचतुभुणि की प्रत्येक भुिा की लंबाई जकतनी है?
+The area of a rhombus is 216 cm² and the length of one of its diagonals is 24 cm. What is the length of each side of the rhombus?
+"14 cm ","13 cm ","15 cm ","12 cm"
+15 cm 
+ch_21
+
+42
+िातु के एक टुकड़े का क्षेत्रफल जकतना होगा, िोजक समान्तर चतुभुणि के रूप में है, जिसका आिार 20 m और ऊँचाई 5.4 m है।
+What will be the area of a piece of metal, which is in the form of a parallelogram, whose base is 20 m and height is 5.4 m.
+"108 sq.m. ","801 sq.m. ","180 sq.m. ","810 sq.m."
+108 sq.m. 
+ch_21
+
+43
+जकसी समचतुभुणि की प्रत्येक भुिा की लम्बाई 5 m तथा उसके एक जवकर्ण की लम्बाई 2.8 m है। इस समचतुभुणि का क्षेत्रफल ज्ञात कीजिए ?
+The length of each side of a rhombus is 5 m and the length of one of its diagonals is 2.8 m. Find the area of this rhombus?
+"6.72 m² ","13.44 m² ","14 m² ","7 m²"
+13.44 m² 
+ch_21
+
+44
+एक समचतुभुणि की एक भुिा 37 cm और इसका क्षेत्रफल 840 cm² है। इसके जवकर्ों की लंबाई का योग ज्ञात कीजिए।
+One side of a rhombus is 37 cm and its area is 840 cm². Find the sum of the lengths of its diagonals.
+"84 cm ","94 cm ","42 cm ","47 cm"
+94 cm 
+ch_21
+
+45
+एक समचतुभुणि का पररमाप 56 cm है और उसके जवकर्ों में से एक की लम्बाई 26 cm है, समचतुभुणि के िूसरे जवकर्ण की लम्बाई ज्ञात कीजिए।
+The perimeter of a rhombus is 56 cm and the length of one of its diagonals is 26 cm. Find the length of the other diagonal of the rhombus.
+"6√7 cm ","6√2 cm ","6√3 cm ","6√5 cm"
+6√3 cm 
+ch_21
+
+46
+समांतर चतुभुणि की भुिाएं क्रमश: 12m और 17m है। यजि जवकर्ों में से एक की लंबाई 25 m है, तो उस समांतर चतुभुणि का क्षेत्रफल ....... है-
+The sides of the parallelogram are 12m and 17m respectively. If the length of one of the diagonals is 25 m, then the area of that parallelogram is…
+"190 m² ","150 m² ","160 m² ","180 m²"
+180 m²
+ch_21
+
+47
+एक समचतुभुणि के जवकर्ण 12 cm और 16 cm हैं। समचतुभुणि की सभी भुिाओ ंके मध्य जबन्िुओ ंको जमलाने से बनी आकृजत का क्षेत्रफल है।
+The diagonals of a rhombus are 12 cm and 16 cm. The area of the figure formed by joining the midpoints of all the sides of a rhombus is.
+"192 cm² ","64 cm² ","48 cm² ","96 cm²"
+48 cm² 
+ch_21
+
+48
+एक समचतुभणि का क्षेत्रफल 216 m² है और इसके एक जवकर्ण की लम्बाई 24 m है। समचतुभणि की प्रत्येक भुिा की लम्बाई होगी :
+The area of a rhombus is 216 m² and the length of one of its diagonals is 24 m. The length of each side of the rhombus will be:
+"12 m ","18 m ","15 m ","30 m"
+15 m 
+ch_21
+
+49
+एक असमांतर चतुभुणि की िो समांतर भुिाओ ं के बीच की िूरी ज्ञात कीजिए यजि असमांतर चतुभुणि का क्षेत्रफल 150 वगण मीटर है, और िो समांतर भुिाओ ंकी लंबाई क्रमशः 10 मीटर और 15 मीटर है।
+Find the distance between two parallel sides of a rhombus if the area of the rhombus is 150 square meter, and the lengths of the two parallel sides are 10 m and 15 m respectively.
+"12 m ","14 m ","10 m ","15 m"
+12 m 
+ch_21
+
+50
+िब समचतुभुणि का क्षेत्रफल 324cm² है और इसके एक जवकर्ण की लम्बाई 36cm है। इस समचतुभुणि की प्रत्येक भुिा की लंबाई क्या है?
+When the area of the rhombus is 324cm² and the length of one of its diagonals is 36cm. What is the length of each side of this rhombus?
+"10 cm ","18√5 cm ","9√5 cm ","8√6 cm"
+9√5 cm 
+ch_21
+
+51
+समचतुभुणि की एक भुिा और िो जवकर्ों में से एक की लंबाई 14 cm है। समचतुभुणि का क्षेत्रफल _______cm² है।
+The length of one side and one of the two diagonals of the rhombus is 14 cm. The area of the rhombus is _______cm².
+"49√3 ","196√3 ","98√3 ","98"
+98√3 
+ch_21
+
+52
+एक समबाहु जत्रभुि की ऊँचाई एक वगण के जवकर्ण के बराबर है। जत्रभुि और वगण के क्षेत्रफल का अनुपात ज्ञात करें
+The height of an equilateral triangle is equal to the diagonal of a square. Find the ratio of the areas of a triangle and a square
+"√3 : 2 ","2 : √3 ","3 : 4 ","√3 : √2"
+2 : √3 
+ch_21
+
+53
+12 सेमी और 8 सेमी भुिाओ ं वाले आयत से एक समचतुभुणि बनाया गया जिसकी पररजि आयत की पररजि के समान थी और इसका एक कोर् 120° था । समचतुभुणि का क्षेत्रफल जकतना था ?
+A rhombus was made from a rectangle with sides 12 cm and 8 cm whose perimeter was equal to the perimeter of the rectangle and one of its angles was 120°. What was the area of the rhombus?
+"25√3 cm² ","50√3 cm² ","40√3 cm² ","100√3 cm²"
+50√3 cm² 
+ch_21
+
+54
+यजि जकसी समचतुभुणि के जवकर्ण 5:4 के अनुपात में है, तो समचतुभुणि के क्षेत्रफल और उसके जवकर्ाणैे के गुर्नफल का अनुपात ज्ञात कीजिए।
+If the diagonals of a rhombus are in the ratio 5:4, then find the ratio of the product of the area of the rhombus and its diagonals.
+"4:1 ","2:1 ","1:2 ","1:4"
+1:2 
+ch_21
+
+55
+एक समांतर चतुभणि की ऊँचाई 7 सेमी तथा क्षेत्रफल 161 वगण सेमी है। इसके आिार की लम्बाई ज्ञात कीजिए-
+The height of a parallelogram is 7 cm and area is 161 square cm. Find the length of its base-
+"25 सेमी ","23 सेमी 25 cm 23 cm ","21 सेमी ","19 सेमी 21 cm 19 cm"
+23 सेमी 25 cm 23 cm 
+ch_21
+
+56
+एक समलम्ब (trapezium) का क्षेत्रफल 18 वगण सेमी है। इसकी ऊँचाई और आिार क्रमश: 3 सेमी और 5 सेमी है। आिार के समांतर भुिा की लम्बाई ज्ञात कीजिए।
+The area of a trapezium is 18 square cm. Its height and base are 3 cm and 5 cm respectively. Find the length of the side parallel to the base.
+"4 सेमी. ","6 सेमी. 4 cm. 6 cm. ","8 सेमी. ","7 सेमी. 8 cm. 7 cm."
+7 सेमी. 8 cm. 7 cm.
+ch_21
+
+57
+जकसी समचतुभुणि की एक भुिा की लम्बाई 17 सेंटीमीटर है और इसका एक जवकर्ण 16 सेंटीमीटर लम्बा है। िूसरे जवकर्ण की लम्बाई ज्ञात करें।
+The length of one side of a rhombus is 17 cm and one of its diagonals is 16 cm long. Find the length of the second diagonal.
+"30 सेंटीमीटर ","20 सेंटीमीटर 30 centimeters 20 centimeters ","32 सेंटीमीटर ","16 सेंटीमीटर 32 centimeters 16 centimeters"
+30 सेंटीमीटर 
+ch_21
+
+58
+जकसी समचतुभुणि की एक भुिा की लंबाई 61 सेंटीमीटर है और इसका क्षेत्रफल 1320 वगण सेंटीमीटर है। इसके जवकर्ों की लंबाई का योग बताएं।
+The length of one side of a rhombus is 61 centimeters and its area is 1320 square centimeters. Find the sum of the lengths of its diagonals.
+"120 सेंटीमीटर ","122 सेंटीमीटर 120 centimeters 122 centimeters ","142 सेंटीमीटर ","71 सेंटीमीटर 142 centimeters 71 centimeters"
+142 सेंटीमीटर 
+ch_21
+
+59
+10 cm और 6 cm जवमा वाले एक आयत से समान पररमाप वाला एक समचतुभुणि बनाया गया जिसका एक कोर् 60° है। समचतुभुणि का क्षेत्रफल वगण सेंटीमीटर में जकतना होगा?
+A rhombus of equal perimeter and one angle of 60° is made from a rectangle of dimensions 10 cm and 6 cm. What will be the area of the rhombus in square centimeters?
+"24√3 ","8√3 ","16√3 ","32√3"
+32√3
+ch_21
+
+60
+एक समचतुभुणि का क्षेत्रफल 24m² और इसके एक जवकर्ण की लंबाई 8m है । समचतुभुणि की प्रत्येक भुिा की लंबाई जकतनी होगी?
+The area of a rhombus is 24m² and the length of one of its diagonals is 8m. What will be the length of each side of the rhombus?
+"5 m ","10 m ","4 m ","6m"
+5 m 
+ch_21
+
+61
+जकसी समचतुभुणि की एक भुिा की लंबाई बताएं जिसका क्षेत्रफल 24 वगण सेंटीमीटर है और इसके जवकर्ों के लम्बाई का योग 14 सेंटीमीटर हो–
+Find the length of one side of a rhombus whose area is 24 square centimeters and the sum of the lengths of its diagonals is 14 centimeters –
+"3 सेंटीमीटर ","6 सेंटीमीटर 3 centimeters 6 centimeters ","4 सेंटीमीटर ","5 सेंटीमीटर 4 centimeters 5 centimeters"
+5 सेंटीमीटर 4 centimeters 5 centimeters
+ch_21
+
+62
+जकसी समचतुभुणि के प्रत्येक भुिा की लम्बाई 25 मीटर और एक जवकर्ण की लंबाई 14 मीटर है। समचतुभुणि का क्षेत्रफल क्या है?
+The length of each side of a rhombus is 25 meters and the length of one diagonal is 14 meters. What is the area of rhombus?
+"175 िगण मीटर ","336 िगण मीटर 175 square meters 336 square meters ","168 िगण मीटर ","350 िगण मीटर 168 square meters 350 square meters"
+336 िगण मीटर 175 square meters 336 square meters 
+ch_21
+
+63
+जकसी समचतुभुणि की एक भुिा 41 सेंटीमीटर है और इसका क्षेत्रफल 720 वगण सेंटीमीटर है। इसके जवकर्ों की लम्बाई का योग क्या होगा?
+One side of a rhombus is 41 centimeters and its area is 720 square centimeters. What will be the sum of the lengths of its diagonals?
+"82 सेंटीमीटर ","90 सेंटीमीटर 82 centimeters 90 centimeters ","98 सेंटीमीटर ","80 सेंटीमीटर 98 centimeters 80 centimeters"
+98 सेंटीमीटर 
+ch_21
+
+64
+जकसी समचतुभुणि की एक भुिा 13 सेंटीमीटर है और उसका एक जवकर्ण 10 सेंटीमीटर है तो उसके िूसरे जवकर्ण की लंबाई क्या होगी?
+If one side of a rhombus is 13 cm and one of its diagonals is 10 cm, then what will be the length of its other diagonal?
+"24 सेंटीमीटर ","23 सेंटीमीटर 24 centimeters 23 centimeters ","25 सेंटीमीटर ","22 सेंटीमीटर 25 centimeters 22 centimeters"
+24 सेंटीमीटर 
+ch_21
+
+65
+एक वृत्त का क्षेत्रफल 616 वगण मी है। इसका व्यास ज्ञात कीजिए। (π = 22/7)
+The area of a circle is 616 square metres. Find its diameter. (π = 22/7)
+"7 m. ","14 m. ","28 m. ","56 m."
+28 m. 
+ch_21
+
+66
+उस वृत्ताकार पथ का क्षेत्रफल ज्ञात कीजिए, िो 440 मीटर पररजि वाले वृत्त के चारो ं ओर बनाया गया है और जिसकी चौड़ाई 7 मीटर है।
+Find the area of the circular path which is built around a circle of circumference 440 m and whose width is 7 m.
+"3856 िगण मीटर ","3234 िगण मीटर 3856 square meters 3234 square meters ","3900 िगण मीटर ","3204 िगण मीटर 3900 square meters 3204 square meters"
+3234 िगण मीटर 3856 square meters 3234 square meters 
+ch_21
+
+67
+एक 28 सेमी व्यास वाले अिणवृत्त की पररजि ...........है। (p = 22/7)
+The circumference of a semicircle of diameter 28 cm is………….. (p = 22/7)
+"36 से.मी. ","144 से.मी. 36 cm 144 cm ","72 से.मी. ","44 से.मी. 72 cm 44 cm"
+72 से.मी. 
+ch_21
+
+68
+जकसी वृत्त की जत्रज्या में 5% की वृखि की िाती है। इसके क्षेत्रफल में होने वाली प्रजतशत वृखि ज्ञात कीजिए।
+The radius of a circle is increased by 5%. Find the percentage increase in its area.
+"10.25% ","21.5% ","10.5% ","25%"
+10.25% 
+ch_21
+
+69
+एक जत्रभुि जिसकी भुिा की लंबाई
+7 cm, 24 cm और 25 cm है, के अन्त: वृत्त की जत्रज्या क्या होगी? What will be the radius of the incircle of a triangle whose side lengths are 7 cm, 24 cm and 25 cm?
+"4 cm ","2.5 cm ","3.5 cm ","3 cm"
+3 cm
+ch_21
+
+70
+जकसी गोलाकार कक्ष में पक्का फशण लगाने की लागत 10 प्रजत वगणमीटर की िर से 1540 है। इस पर फेंजसंग की लागत 6 प्रजत मीटर की िर से जकतनी होगी–
+The cost of laying concrete floor in a circular room is Rs 1540 at the rate of Rs 10 per square metre. What will be the cost of fencing on this at the rate of Rs 6 per meter?
+"260 ","264 ","250 ","265"
+264 
+ch_21
+
+71
+ABCD एक वृत्त (जत्रज्या = r) में अंजकत एक चतुभुणि है | DAB और BCD कोर्ो ं के जद्वभािक क्रमशः X और Y पर वृत्त को प्रजतच्छेजित करते हैं। सीिी रेिा XY की लंबाई क्या है?
+ABCD is a quadrilateral inscribed in a circle (radius = r). The angle bisectors DAB and BCD intersect the circle at X and Y respectively. What is the length of straight line XY?
+"2r ","(r + 2) ","πr²/2 ","πr²"
+2r 
+ch_21
+
+72
+एक वृत्त की पररजि उसके व्यास से 15 mअजिक है। वृत्त की जत्रज्या ज्ञात कीजिए–
+The circumference of a circle is 15 m more than its diameter. Find the radius of the circle –
+"7 cm ","3.5 cm ","4 cm ","8 cm"
+3.5 cm 
+ch_21
+
+73
+गोलाकार अंगूठी की आंतररक और बाहरी पररजि क्रमश: 22 cm और 44 cm है। अंगूठी की मोटाई ......... है–
+The inner and outer circumferences of a circular ring are 22 cm and 44 cm respectively. The thickness of the ring is-
+"5.5 cm ","1.5 cm ","3.5 cm ","2.5 cm"
+3.5 cm 
+ch_21
+
+74
+एक गोलाकार बगीचे के चारो ं ओर एक बाहरी वृत्ताकार पथ बनाया गया है। यजि पथ की बाहरी और आंतररक पररजि क्रमश: 220 m और 44m है, तो पथ का क्षेत्रफल ज्ञात करें।
+An outer circular path is built around a circular garden. If the outer and inner circumference of the path are 220 m and 44m respectively, find the area of the path.
+"3960 m² ","3696 m² ","3069 m² ","3096 m²"
+3696 m² 
+ch_21
+
+75
+एक वृत्त में अंजकत एक समबाहु जत्रभुि का क्षेत्रफल 9√3 cm² है। वृत्त का क्षेत्रफल क्या है?
+The area of an equilateral triangle inscribed in a circle is 9√3 cm². What is the area of the circle?
+"16 π ","12√3 π ","15√3 π ","12 π"
+12 π
+ch_21
+
+76
+िौड़ का एक मैिान ररंग के रूप में है जिसकी आन्तररक पररजि 88 m और बाहरी पररजि 154 m है। मैिान की चौड़ाई क्या है?
+A race track is in the form of a ring whose inner circumference is 88 m and outer circumference is 154 m. What is the width of the field?
+"12m ","15m ","16.5 m ","10.5 m"
+10.5 m
+ch_21
+
+77
+एक अद्र्ि-वृत्तीय क्षेत्र का व्यास 14 m है, तो उस क्षेत्र का पररमाप क्या होगा?
+If the diameter of a semi-circular field is 14 m, then what will be the perimeter of that field?
+"44 m ","22 m ","36 m ","58 m"
+36 m 
+ch_21
+
+78
+यजि एक कार के पजहयें का व्यास 56 cm है, तो 88 km की यात्रा के िौरान कार का पजहया जकतनी बार घूमेगा?
+If the diameter of a car wheel is 56 cm, how many times will the car wheel rotate during a journey of 88 km?
+"500 ","50000 ","5000 ","5,00,000"
+50000 
+ch_21
+
+79
+7 मी जत्रज्या के वृत्ताकार भूजम के चारो ओर 3.5 मी चौड़ा मागण है। मागण का क्षेत्रफल ज्ञात करो -
+There is a 3.5 m wide path around a circular field of radius 7 m. Find the area of the road -
+"202 िगण मी. ","154 िगण मी. 202 square meters. 154 square meters. ","192.5 िगण मी. ","346.5 िगण मी. 192.5 sq m. 346.5 sq m."
+192.5 िगण मी. 
+ch_21
+
+80
+यजि एक वृत्त की पररजि 18π सेमी है, तो वृत्त का क्षेत्रफल है
+If the circumference of a circle is 18π cm, then the area of the circle is
+"18π िगण सेमी. ","18π² िगण सेमी. 18π square cm. 18π² square cm. ","81π िगण सेमी. ","9π िगण सेमी. 81π square cm. 9π square cm."
+81π िगण सेमी. 
+ch_21
+
+81
+एक वृत्त की पररजि 22 सेमी है, तो अिणवृत्त का क्षेत्रफल जकतना होगा?
+If the circumference of a circle is 22 cm, then what will be the area of the semicircle?
+"38.5 िगण सेमी. ","19.24 िगण सेमी. 38/5 square cm. 19/24 square cm. ","44 िगण सेमी. ","77 िगण सेमी. 44 square cm. 77 square cm."
+19.24 िगण सेमी. 38/5 square cm. 19/24 square cm. 
+ch_21
+
+82
+एक तार को मोड़ कर िब एक वगण बनाया िाता है, तो वगण का क्षेत्रफल 484 वगण सेमी होता है। यजि उसी तार को वृत्त के रूप में मोड़ा िाए तो इसका क्षेत्रफल जकतना होगा?
+When a square is formed by bending a wire, the area of the square is 484 square cm. If the same wire is bent in the form of a circle, what will be its area?
+"264 िगण सेमी. ","616 िगण सेमी. 264 square cm. 616 square cm. ","488 िगण सेमी. ","492 िगण सेमी. 488 square cm. 492 square cm."
+616 िगण सेमी. 264 square cm. 616 square cm. 
+ch_21
+
+83
+एक वृत्त की सबसे बड़ी िीवा का माप 10 सेमी और सबसे छोटी िीवा का माप 4 सेमी है। वृत्त की जत्रज्या ज्ञात करें।
+The largest chord of a circle measures 10 cm and the smallest chord measures 4 cm. Find the radius of the circle.
+"20 सेमी. ","5 सेमी. 20 cm. 5 cm. ","8 सेमी. ","2 सेमी. 8 cm. 2 cm."
+5 सेमी. 20 cm. 5 cm. 
+ch_21
+
+84
+22 सेमी की पररजि वाले एक वृत्ताकार क्षेत्र का क्षेत्रफल ज्ञात करें।
+Find the area of a circular region of circumference 22 cm.
+"22 िगण सेमी. ","11 िगण सेमी. 22 square cm. 11 square cm. ","44 िगण सेमी. ","38.5 िगण सेमी. 44 square cm. 38.5 square cm."
+38.5 िगण सेमी. 44 square cm. 38.5 square cm.
+ch_21
+
+85
+14 सेमी जत्रज्या वाले एक वृत्त की पररजि में वृखि ज्ञात कीजिए, यजि जत्रज्या में 7 सेमी की वृखि की िाती है। (π = 22/7)
+Find the increase in circumference of a circle of radius 14 cm, if the radius is increased by 7 cm.(π = 22/7)
+"44 सेमी. ","22 सेमी. 44 cm. 22 cm. ","66 सेमी. ","88 सेमी. 66 cm. 88 cm."
+44 सेमी. 
+ch_21
+
+86
+एक तार के टुकड़े को मोड़कर एक वगण का आकार जिया िाता है जिसकी भुिाएँ 44 cm वृत्त का आकार िे जिया गया। इस वृत्त की जत्रज्या क्या है?
+A piece of wire is bent into the shape of a square whose sides are 44 cm in the shape of a circle. What is the radius of this circle?
+"108 cm. ","56 cm. ","14 cm. ","28 cm."
+28 cm.
+ch_21
+
+87
+एक साइजकल का पजहया 44 जकमी में 5000 चक्कर पूरे करता है। पजहये की जत्रज्या ज्ञात कीजिए?
+A bicycle wheel completes 5000 revolutions in 44 km. Find the radius of the wheel?
+"140 सेमी ","270 सेमी. 140 cm 270 cm. ","70 सेमी. ","120 सेमी. 70 cm. 120 cm."
+140 सेमी 
+ch_21
+
+88
+28 मीटर व्यास वाले एक वृत्ताकार मैिान को समतल करने की लागत क्या होगी यजि शुि 124 प्रजत वगण मीटर है?
+What will be the cost of leveling a circular field of diameter 28 m if the charge is Rs 124 per square metre?
+"76,000 ","76,400 ","76,800 ","77,000"
+77,000
+ch_21
+
+89
+एक तार के टुकड़े से 120 π सेंटीमीटर भुिा वाला एक वगण बनाया गया है। यजि उसी तार को मोड़कर एक वृत्त बनाया िाए, तो वृत्त की जत्रज्या क्या होगी ?
+A square of side 120 π cm is made from a piece of wire. If the same wire is bent into a circle, what will be the radius of the circle?
+"30 सेंटीमीटर ","120 सेंटीमीटर 30 centimeters 120 centimeters ","240 सेंटीमीटर ","60 सेंटीमीटर 240 centimeters 60 centimeters"
+240 सेंटीमीटर 
+ch_21
+
+90
+आकृजत में एक वृत्त का केंद्र 'O' है। अनुभाग OAPB का क्षेत्रफल वृत्त के क्षेत्रफल का 5/18 भाग है। x ज्ञात कीजिए।
+In the figure, the center of a circle is 'O'. The area of the section OAPB is 5/18 of the area of the circle. Find x.
+"120 वडग्री ","100 वडग्री 120 degrees 100 degrees ","125 वडग्री ","115 वडग्री 125 degrees 115 degrees"
+100 वडग्री 120 degrees 100 degrees 
+ch_21
+

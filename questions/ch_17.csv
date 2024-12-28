@@ -1,0 +1,525 @@
+1
+3/4, 5/8, 7/12, 15/16 का औसत ज्ञात कीजिए।
+Find the average of 3/4, 5/8, 7/12, 15/16.
+"139/192 ","135/64 ","11/32 ","21/64"
+139/192 
+ch_17
+
+2
+पाँच क्रमागत सम संख्याओ ंका औसत 40 है। इन संख्याओ ंमें से सबसे छोटी संख्या का मान ज्ञात कीजिए।
+The average of five consecutive even numbers is 40. Find the value of the smallest of these numbers.
+"35 ","36 ","44 ","48"
+36 
+ch_17
+
+3
+चार संख्याओ ंa, b, c और d का कुल औसत 26 है। यजि a और b का औसत 19.5 है तो c और d का औसत होगा:
+The overall average of four numbers a, b, c and d is 26. If the average of a and b is 19.5 then the average of c and d will be:
+"33 ","35.5 ","31.5 ","32.5"
+32.5
+ch_17
+
+4
+चार संख्याओ ं W, X, Y औरण Z को आरोही क्रम में व्यवखित जकया गया है। सबसे छोटी तीन संख्याओ ं का औसत 22 है, िबजक सबसे बड़ी तीन संख्याओ ं का औसत 28 है। आंकड़ो ंका परास ज्ञात कीजिए?
+Four numbers W, X, Y and Z are arranged in ascending order. The average of the smallest three numbers is 22, while the average of the largest three numbers is 28. Find the range of the data?
+"19 ","18 ","17 ","16"
+18 
+ch_17
+
+5
+तीन संख्याओ ंका औसत 7 है। पहले िो का औसत 5 है, िबजक अंजतम 2 का औसत 8 है। तीन संख्याएं (क्रमशः) कौन सी है?
+The average of three numbers is 7. The average of the first two is 5, while the average of the last 2 is 8. What are the three numbers (respectively)?
+"3, 7 और 9 ","2, 8 और 8 3, 7 and 9 2, 8 and 8 ","5, 5 और 11 ","4, 6 और 10 5, 5 and 11 4, 6 and 10"
+5, 5 और 11 
+ch_17
+
+6
+चार अंको ंको आरोही क्रम में रिने पर उनका क्रम w, x, y औरण z है। सबसे छोटे तीन अंको ंका औसत 25.5 है िबजक सबसे बड़े तीन अंको ंका औसत 29.5 है। आंकड़ो ंका परास ज्ञात कीजिए।
+When four digits are arranged in ascending order, their order is w, x, y and z. The average of the smallest three numbers is 25.5 while the average of the largest three numbers is 29.5. Find the range of the data.
+"13 ","12 ","10 ","11"
+12 
+ch_17
+
+7
+तीन संख्याओ ंका औसत 8 है। पहली िो संख्याओ ंका औसत 6 और अंजतम िो संख्याओ ं का औसत 9 है। वे तीन संख्याएँ ज्ञात कीजिए।
+The average of three numbers is 8. The average of the first two numbers is 6 and the average of the last two numbers is 9. Find those three numbers.
+"4, 9, 2009 ","4, 8, 12 ","5, 7, 12 ","6, 6, 12"
+6, 6, 12
+ch_17
+
+8
+तीन संख्याओ ं का औसत 28 है। यजि सबसे छोटी संख्या में 2 िोड़ जिया िाए और सबसे बड़ी संख्या में से 5 घटा जिया िाए तो मध्य का अंक समांतर माध्य हो िाता है, िबजक आंकड़ो ंके इस नए समुच्चय का परास 36 हो िाता है। इन तीन संख्याओ ंके मूल समुच्चय की सबसे बड़ी संख्या क्या है?
+The average of three numbers is 28. If 2 is added to the smallest number and 5 is subtracted from the largest number, the middle number becomes the arithmetic mean, while the range of this new set of data becomes 36. What is the largest number in the original set of these three numbers?
+"50 ","48 ","47 ","45"
+50 
+ch_17
+
+9
+तीन संख्याओ ं का औसत 28 है। यजि सबसे छोटी संख्या में 7 िोड़ जिया िाए और सबसे बड़ी संख्या में से 10 घटा जिया िाए, तो बीच वाला अंक समांतर माध्य और आंकड़ो ं के इस नए समुच्चय का परास 20 हो िाता है। इन तीन संख्याओ ं के मूल समुच्चय की सबसे बड़ी संख्या क्या है?
+The average of three numbers is 28. If 7 is added to the smallest number and 10 is subtracted from the largest number, the middle number becomes the arithmetic mean and the range of this new set of data becomes 20. What is the largest number in the original set of these three numbers?
+"47 ","40 ","45 ","50"
+47 
+ch_17
+
+10
+चार संख्याएं a, b, c और d इस प्रकार है जक उनका कुल औसत 39 है। a और b का औसत 19.5 है। c और d का औसत ............ होगा।
+Four numbers a, b, c and d are such that their overall average is 39. The average of a and b is 19.5. The average of c and d will be………….
+"48.5 ","48 ","49.5 ","47.5"
+48.5 
+ch_17
+
+11
+पहले 50 प्राकृजतक संख्याओ ंका मध्यमान (औसत) है?
+What is the mean (average) of the first 50 natural numbers?
+"26.5 ","25.5 ","26 ","25"
+25.5 
+ch_17
+
+12
+7 संख्याओ का योगफल 1050 है। पहली तीन संख्याओ ं का औसत 120 है, चौथी संख्या 126 है, तो अंजतम तीन संख्याओ ंका औसत ज्ञात कीजिए:
+The sum of 7 numbers is 1050. The average of the first three numbers is 120, the fourth number is 126, then find the average of the last three numbers:
+"200 ","165 ","188 ","173"
+188 
+ch_17
+
+13
+
+8, 5, 6, 3, 7, 4, 3, 9 का औसत ज्ञात कीजिए। Find the average of 8, 5, 6, 3, 7, 4, 3, 9.
+"5.63 ","5.64 ","5.65 ","5.66"
+5.63 
+ch_17
+
+14
+
+1, 9, 7, 3, 5, 5, 6, 4, 2, 8 का औसत ज्ञात कीजिए। Find the average of 1, 9, 7, 3, 5, 5, 6, 4, 2, 8.
+"3 ","4 ","5 ","6"
+5 
+ch_17
+
+15
+7 के प्रथम 20 गुर्ाको ंका औसत ज्ञात करो–
+Find the average of first 20 multiples of 7 –
+"66.5 ","67.5 ","73.5 ","74.5"
+73.5 
+ch_17
+
+16
+8 के प्रथम 20 गुर्को ंका औसत ज्ञात कीजिए।
+Find the average of first 20 multiples of 8.
+"78 ","80 ","84 ","82"
+84 
+ch_17
+
+17
+9 के प्रथम 30 गुर्ांको ंका औसत क्या है?
+What is the average of the first 30 coefficients of 9?
+"142 ","138.5 ","139.5 ","143.5"
+139.5 
+ch_17
+
+18
+तीन संख्याऐ ंिी गयी हैं जिसमें िूसरी संख्या पहली की तीन गुनी है तथा तीसरी की 2 गुनी है। यजि तीनो ंसंख्याओ ं का औसत 66 है। तो पहली संख्या ज्ञात कीजिए।
+Three numbers have been given in which the second number is three times the first and the third is twice the number. If the average of all three numbers is 66. Then find the first number.
+"36 ","54 ","108 ","72"
+36 
+ch_17
+
+19
+5 क्रमागत संख्याओ ं का औसत 50 है। सबसे बड़ी संख्या और सबसे छोटी संख्या के गुर्नफल तथा चतुथण और िूसरी संख्या के गुर्नफल का अंतर है।
+The average of 5 consecutive numbers is 50. It is the difference between the product of the largest number and the smallest number and the product of the fourth and second number.
+"3 ","–3 ","0 ","10"
+–3 
+ch_17
+
+20
+पाँच क्रमागत संख्याओ ं का औसत 10 है तो बीच वाली संख्या कौन सी होगी?
+If the average of five consecutive numbers is 10, then which will be the middle number?
+"10 ","11 ","8 ","9"
+10 
+ch_17
+
+21
+5 क्रमागत संख्याओ ं का औसत 100 है, पहली संख्या ज्ञात कीजिए।
+The average of 5 consecutive numbers is 100, find the first number.
+"98 ","99 ","100 ","101"
+98 
+ch_17
+
+22
+5 क्रमागत संख्याओ ंका औसत 100 है, तो सबसे बड़ी तथा सबसे छोटी संख्याओ ंके वगों का अन्तर होगा:
+If the average of 5 consecutive numbers is 100, then the difference of the squares of the largest and smallest numbers will be:
+"800 ","990 ","900 ","1000"
+800 
+ch_17
+
+23
+एक कक्षा के 3 छात्रो ंके एक परीक्षा में औसत अंक 25 में से 18 हैं। िो नये जवद्याथी परीक्षा िेते हैं। वह न्यूनतम अंक जकतने हैं, िो एक नये छात्र द्वारा प्राप्त जकये िा सकते हैं और यह अन्य छात्रो ंसे कम हो तथा पाँचो ंछात्रो ंका कुल औसत बढ़कर 20 पहुँच िाय?
+The average marks of 3 students of a class in an examination is 18 out of 25. Two new students appear for the exam. What is the minimum marks that can be obtained by a new student and it is less than other students and the total average of all five students increases to 20?
+"23 ","20 ","21 ","22"
+21 
+ch_17
+
+24
+एक कॉलेि के तीन समूहो ंG1, G2 और G3 में छात्रो ंकी संख्या क्रमश: 20, 40 और 60 है। समूहो ंG1, G2 और G3 द्वारा प्राप्त जकये गए औसत अंक क्रमश: 50%, 60% और 70% हैं। कॉलेि के सभी छात्रो ंके औसत अंक जकतने हैं?
+The number of students in three groups G1, G2 and G3 of a college is 20, 40 and 60 respectively. The average marks obtained by groups G1, G2 and G3 are 50%, 60% and 70% respectively. What is the average marks of all the students of the college?
+"62% ","61% ","60% ","63%"
+63%
+ch_17
+
+25
+रीना द्वारा 16 परीक्षाओ ं में प्राप्त अंको ं का औसत 26 है। श्रेया द्वारा अब तक प्राप्त अंको ं का औसत 24 है, लेजकन उसने अब तक केवल 12 परीक्षाएं िी हैं। रीना के समान प्रिशणन करने के जलए श्रेया को शेष 4 परीक्षाओ ंमें औसतन जकतने अंक प्राप्त करने होगं े?
+The average marks obtained by Reena in 16 examinations is 26. The average marks obtained by Shreya so far is 24, but she has appeared in only 12 exams so far. What is the average marks that Shreya will have to score in the remaining 4 examinations to perform at par with Reena?
+"28 ","32 ","30 ","26"
+32 
+ch_17
+
+26
+एक कक्षा में 9 लड़के एवं कुछ लड़जकयां थी। एक परीक्षा में, लड़को ंको 13 औसत अंक प्राप्त हुए िबजक लड़जकयो ंद्वारा प्राप्त औसत अंक 15 थे। यजि अंको ंका कुल औसत 14.28 हो, तो कक्षा में जवद्याजथणयो ंकी कुल संख्या जकतनी होगी?
+There were 9 boys and some girls in a class. In an examination, the average marks obtained by boys was 13 while the average marks obtained by girls was 15. If the overall average of marks is 14.28, then what will be the total number of students in the class?
+"24 ","25 ","26 ","27"
+25 
+ch_17
+
+27
+25 अंको ंकी एक परीक्षा में तीन छात्रो ंके प्राप्तांको ंका माध्य 16 है। िो नए छात्रो ं ने परीक्षा में भाग जलया। पाँचो ं जवद्याजथणयो ं के औसत अंक को 19 करने के जलए नए छात्र को, िो िूसरे नए छात्र से कम अंक प्राप्त करता है, कम से कम जकतने अंक प्राप्त करन े होगं े?
+The mean of marks of three students in an examination of 25 marks is 16. Two new students participated in the examination. To make the average marks of the five students 19, what is the minimum number of marks that the new student, who scores less than the other new student, must score?
+"22 ","21 ","20 ","25"
+22 
+ch_17
+
+28
+जकसी कक्षा में 18 लड़को ंके एक टेस्ट में प्राप्त अंको ंका औसत 16 हैं, िबजक कक्षा के कुल 30 जवद्याजथणयो ं का औसत 18.1 है। लड़जकयो ंके प्राप्तांको ंका औसत जकतना है?
+The average marks obtained in a test by 18 boys in a class is 16, while the average of total 30 students in the class is 18.1. What is the average marks of girls?
+"21.25 ","20.5 ","20.75 ","21"
+21.25 
+ch_17
+
+29
+कुल 45 अंको वाली एक परीक्षा में तीन छात्रो ंके अंको ंका माध्य 38 है। िो नए छात्रो ंने परीक्षा में भाग जलया। उस नए छात्र द्वारा प्राप्त जकये िा सकने वाले सबसे कम अंक क्या हैं जिसने िूसरे नये छात्र से कम अंक प्राप्त जकए हैं, जिससे पांच छात्रो ंके अंको ं का कुल औसत 40 हो िाता है?
+The mean of marks of three students in an examination of total 45 marks is 38. Two new students participated in the examination. What is the lowest marks that can be obtained by the new student who has scored less marks than the other new student, so that the total average of marks of five students becomes 40?
+"41 ","42 ","40 ","43"
+41 
+ch_17
+
+30
+रघुवीर द्वारा 12 टेस्टो ंमें प्राप्त अंको ंका औसत 25 है। रुमेला का अब तक का औसत 23 अंक है, लेजकन उसने केवल 8 टेस्ट में भाग जलया है। रुमेला को रघुवीर के औसत के बराबर िाने के जलये शेष 4 टेस्ट में जकतना औसत अजिणत करना होगा?
+The average of marks obtained by Raghuveer in 12 tests is 25. Rumela has averaged 23 points so far, but has appeared in only 8 Tests. What average will Rumela have to earn in the remaining 4 tests to match Raghuveer's average?
+"27 ","29 ","26 ","28"
+29 
+ch_17
+
+31
+पाँच छात्रो ं के समूह ने एक परीक्षा िी। एक और छात्र बाि में परीक्षा िेने के बाि समूह में शाजमल हो गया। उसके अंको ं को शाजमल करने से, समूह के औसत अंको ं में 2 अंक की वृखि हो गई। उसे शाजमल जकए जबना औसत अंको ंसे इस छात्र ने -------- अंक अजिक प्राप्त जकए हैं।
+A group of five students took an examination. Another student later joined the group after taking the exam. By including his marks, the average marks of the group increased by 2 marks. This student has obtained ------- - marks more than the average marks without including him.
+"18 ","14 ","12 ","15"
+12 
+ch_17
+
+32
+एक कक्षा में 28 लड़के और कुछ लड़जकयाँ थी। एक परीक्षा में लड़को ंद्वारा प्राप्त औसत अंक 12.5 थे, िबजक लड़जकयो ंने 14.5 औसत अंक प्राप्त जकए थे। यजि समग्र औसत 13.1 थी, तो कक्षा में छात्रो ंकी कुल संख्या जकतनी थी?
+There were 28 boys and some girls in a class. The average marks obtained by boys in an examination was 12.5, while the average marks obtained by girls was 14.5. If the overall average was 13.1, what was the total number of students in the class?
+"42 ","40 ","44 ","38"
+40 
+ch_17
+
+33
+40 छात्रो ंकी एक कक्षा में, लड़को ंऔर लड़जकयो ंका अनुपात 7:3 है। लड़को ं के औसत अंक 65 हैं और लड़जकयो ं के 72 है। पूरी कक्षा के औसत अंक क्या है?
+In a class of 40 students, the ratio of boys and girls is 7:3. The average marks of boys is 65 and that of girls is 72. What is the average marks of the whole class?
+"67.1 ","68.4 ","68.3 ","68.2"
+67.1 
+ch_17
+
+34
+45 छात्रो ंकी एक कक्षा में, लड़को ंऔर लड़जकयो ंका अनुपात 4:5 है। लड़को ं के औसत अंक 75 हैं और लड़जकयो ं के औसत अंक 82 हैं। पूरी कक्षा के अनुमाजनत औसत अंक जकतने हैं?
+In a class of 45 students, the ratio of boys and girls is 4:5. The average marks of boys is 75 and the average marks of girls is 82. What is the estimated average marks of the entire class?
+"78.6 ","78.5 ","78.9 ","79"
+78.9 
+ch_17
+
+35
+एक कक्षा में 18 लड़को ं का औसत टेस्ट स्कोर 15 था, िबजक कक्षा में समग्र 25 छात्रो ं का औसत 16.12 था। लड़जकयो ं का औसत स्कोर क्या था?
+The average test score of 18 boys in a class was 15, while the average of the overall 25 students in the class was 16.12. What was the average score of the girls?
+"18.5 ","19.5 ","19 ","18.8"
+19 
+ch_17
+
+36
+एक छात्र द्वारा 5 जवषयो ंमें प्राप्त औसत अंक 75 है। उसके पहले 2 जवषयो ंका औसत 65 है। उसके अंजतम 2 जवषयो ंका औसत 85 है। उसे तीसरे जवषय में जकतने अंक प्राप्त हुए हैं?
+The average marks obtained by a student in 5 subjects is 75. The average of his first 2 subjects is 65. The average of his last 2 subjects is 85. How many marks has he got in the third subject?
+"80 अंक ","65 अंक 80 points 65 points ","75 अंक ","70 अंक 75 points 70 points"
+75 अंक 
+ch_17
+
+37
+50 छात्रो ंकी एक कक्षा में, लड़को ंऔर लड़जकयो ंका अनुपात 2:3 है। लड़को ंका औसत अंक 60 हैं और लड़जकयो ंके औसत अंक 70 है। पूरी कक्षा के औसत अंक जकतने हैं?
+In a class of 50 students, the ratio of boys and girls is 2:3. The average marks of boys is 60 and the average marks of girls is 70. What are the average marks of the entire class?
+"65 ","66 ","67 ","64"
+66 
+ch_17
+
+38
+उन्नीस छात्रो ं के समूह ने एक परीक्षा िी, एक और छात्र बाि में परीक्षा िेकर समूह में शाजमल हो गया। उसके अंको ंको शाजमल करने से, समूह के औसत अंको ंमें 1.5 अंक की वृखि हो गई। उसे शाजमल जकए जबना औसत अंको ं से इस छात्र ने ------- अंक अजिक प्राप्त जकए हैं।
+A group of nineteen students took an examination, another student later joined the group by taking the examination. By including his marks, the average marks of the group increased by 1.5 points. This student has obtained ------- marks more than the average marks without including him.
+"25 ","30 ","24 ","28.5"
+30 
+ch_17
+
+39
+15 परीक्षाओ ंमें सुवीर द्वारा प्राप्त औसत अंक 29 हैं। रुजचरा अब तक 27 का औसत बनाए रिे हैं, लेजकन अब तक केवल 11 परीक्षाएं िी हैं। सुवीर के प्रिशणन से मेल िाने के जलए रुजचरा को शेष चार परीक्षाओ ंमें औसत से जकतना स्कोर करना पड़ता है?
+The average marks obtained by Suveer in 15 examinations is 29. Ruchira has maintained an average of 27 so far, but has taken only 11 exams so far. What is the average score Ruchira has to score in the remaining four examinations to match Suveer's performance?
+"35 ","34.5 ","36 ","35.5"
+34.5 
+ch_17
+
+40
+सात छात्रो ंके समूह ने एक परीक्षा िी। परीक्षा के बाि एक और छात्र समूह में शाजमल हुआ। नए छात्र के अंको ंको शाजमल करके, समूह के औसत अंक 2 तक बढ़ गए। प्रारंजभक सात जवद्याजथणयो ंके औसत अंको ंकी तुलना में इस छात्र ने जकतने अजिक अंक प्राप्त जकए?
+A group of seven students took an examination. After the exam another student joined the group. By including the marks of the new student, the average marks of the group increased to 2. How many more marks did this student score than the average marks of the first seven students?
+"16 ","18 ","14 ","20"
+16 
+ch_17
+
+41
+एक कक्षा में 35 छात्रो ंद्वारा प्राप्त जकये गये अंको का औसत 63 है। यजि िो और छात्र जिनका औसत 85.5 है, इनमें िोड़ जिया िाये तो कक्षा का नया औसत जकतना होगा?
+The average marks obtained by 35 students in a class is 63. If two more students whose average is 85.5 are added to them, what will be the new average of the class?
+"64.20 ","67.90 ","63.62 ","65.35"
+64.20 
+ch_17
+
+42
+िेम्स द्वारा गजर्त, जवज्ञान और इजतहास में प्राप्त जकये गये अंको ं का औसत 89 है। यजि उसके भाषा के अंक भी िोड़ जिये िाते है तो औसत घट कर 88.25 हो िाता है। भाषा में उसके द्वारा प्राप्त अंक ज्ञात करें।
+The average of marks obtained by James in Mathematics, Science and History is 89. If his language marks are also added then the average comes down to 88.25. Find the marks obtained by him in the language.
+"90 ","82 ","86 ","83"
+86 
+ch_17
+
+43
+10 छात्रो ं की एक कक्षा में, औसत आयु 16 साल थी। िब िो छात्रो ंने कक्षा छोड़ी तो शेष छात्रो ंकी औसत आयु 16.25 साल हो गई। छोड़ने वाले छात्रो ंकी कुल आयु जकतनी थी?
+In a class of 10 students, the average age was 16 years. When two students left the class the average age of the remaining students became 16.25 years. What was the total age of the students who left?
+"32 साल ","30 साल 32 years 30 years ","34 साल ","28 साल 34 years 28 years"
+30 साल 32 years 30 years 
+ch_17
+
+44
+5 लोगो ंके समूह में पहले तीन और अंजतम िो की आयु के औसत का अनुपात 9:7 है। यजि उनकी आयु के औसत का अंतर 12 है, तो पाँचो ंलोगो ंकी औसत आयु जकतनी होगी?
+In a group of 5 people the ratio of the average of the ages of the first three and the last two is 9:7. If the difference of the average of their ages is 12, then what will be the average age of the five people?
+"46.8 ","49.2 ","48.4 ","64.8"
+49.2 
+ch_17
+
+45
+40 छात्रोैेैं की आयु का औसत 30 वषण है, 25 छात्रो ंकी आयु का औसत 36 वषण है। बाकी छात्रो ंकी आयु का औसत ज्ञात कीजिए।
+The average age of 40 students is 30 years, the average age of 25 students is 36 years. Find the average age of the remaining students.
+"20 ","15 ","25 ","18"
+20 
+ch_17
+
+46
+यजि कक्षा I में 40 छात्रो ंकी आयु का औसत 10 वषण है और कक्षा II में 30 छात्रो ं की आयु का औसत 12 वषण है। सभी छात्रो ं की औसत आयु (वषण में) ज्ञात कीजिए।
+If the average of age of 40 students in class I is 10 years and the average of age of 30 students in class II is 12 years. Find the average age (in years) of all the students.
+"11 ","10.54 ","10.58 ","10.85"
+10.85
+ch_17
+
+47
+81 पररर्ामो ं का औसत 54 है। यजि प्रथम 59 पररर्ामो ं का औसत 52 है और अंजतम 21 पररर्ामो ंका औसत 60 है, तो 60वें पररर्ाम की गर्ना करें।
+The average of 81 results is 54. If the average of the first 59 results is 52 and the average of the last 21 results is 60, calculate the 60th result.
+"52 ","60 ","46 ","62"
+46 
+ch_17
+
+48
+11 पररर्ामो ंका औसत 50 है। पहले 6 पररर्ामो ंका औसत 49 है और अंजतम 6 पररर्ामो ंका औसत 52 है। तो छठे पररर्ाम का मान जकतना होगा?
+The average of 11 results is 50. The average of the first 6 results is 49 and the average of the last 6 results is 52. Then what will be the value of the sixth result?
+"48 ","51 ","56 ","49"
+56 
+ch_17
+
+49
+45 पररर्ामो ं का औसत 23 है। उनमें पहले 22 का औसत 18 और अंजतम 22 का औसत 21 है। 23वें पररर्ाम का मान क्या है?
+The average of 45 results is 23. The average of the first 22 is 18 and the average of the last 22 is 21. What is the value of 23rd result?
+"172 ","190 ","177 ","187"
+177 
+ch_17
+
+50
+एक व्यखक्त को िनवरी में 4 पैकेट प्राप्त हुए जिनका औसत भार 300g था, और फरवरी में 8 पैकेट प्राप्त हुए जिनका औसत भार 400g था। व्यखक्त द्वारा िोनो ं महीनो ं में प्राप्त सभी पैकेटो ं का औसत भार (g में) क्या होगा?
+A person received 4 packets in January whose average weight was 300g, and 8 packets in February whose average weight was 400g. What will be the average weight (in g) of all the packets received by the person in both the months?
+"350g ","366.67g ","412.67g ","376.67g"
+366.67g 
+ch_17
+
+51
+25 वस्तुओ ं का औसत भार 50 kg है। यजि इसमें जकसी अन्य वस्र्तु X का भार शाजमल जकया िाए, तो औसत भार 500 g तक बढ़ िाता है। वस्र्तु X का भार जकतना है?
+The average weight of 25 articles is 50 kg. If the weight of another object X is included, the average weight increases to 500 g. What is the weight of object X?
+"28 kg ","36 kg ","82 kg ","63 kg"
+63 kg
+ch_17
+
+52
+छह बच्चो ंका माध्य भार 17.5 kg है। यजि इनमें से पाँच बच्चो ंके व्यखक्तगत भार क्रमश:
+14, 19, 23, 21 और 13 kg हैं, तो छठवें बच्चे का भार ज्ञात करें। The mean weight of six children is 17.5 kg. If the individual weights of five of these children are 14, 19, 23, 21 and 13 kg respectively, then find the weight of the sixth child.
+"17 kg ","15 kg ","16 kg ","18 kg"
+15 kg 
+ch_17
+
+53
+एक कक्षा में 42 लड़को ंका औसत विन 41 जकलो है। 39 जकलो के विन वाला एक लड़का कक्षा में शाजमल होता है। पहले से उपखित एक लड़के का विन 43 जकलो के िान पर 34 जकलो जगना गया था। नया औसत क्या है ?
+The average weight of 42 boys in a class is 41 kg. A boy weighing 39 kg joins the class. The weight of a boy already present was counted as 34 kg instead of 43 kg. What is the new average?
+"39.81 ","40.74 ","41.16 ","40.92"
+41.16 
+ch_17
+
+54
+5 व्यखक्तयो ं का औसत विन 76 जकलोग्राम है। इनमें से चार व्यखक्तयो ंका विन
+72, 74, 75 और 81 जकलो हैं। 5वें व्यखक्त का विन जकलो ंमें होगा- The average weight of 5 persons is 76 kg. The weight of four of these persons is 72, 74, 75 and 81 kg. The weight of the 5th person in kilos will be-
+"77 ","78 ","79 ","80"
+78 
+ch_17
+
+55
+एक कक्षा में 30 छात्रो ं का औसत भार 25 जकलो है। यजि कक्षा अध्यापक का भार भी इसमें शाजमल कर जलया िाये, तो औसत भार 2 जकलो बढ़ िाता है। कक्षा अध्यापक का भार (जकला में) जकतना है?
+The average weight of 30 students in a class is 25 kg. If the weight of the class teacher is also included, the average weight increases by 2 kg. What is the weight (in kg) of the class teacher?
+"86 ","84 ","81 ","87"
+87
+ch_17
+
+56
+जकसी कक्षा के 29 जवद्याजथणयो ंका औसत भार 48 जकग्रा है। यजि कक्षाध्यापक के भार को िोड़ जिया िाए तो औसत भार 1/2 जकग्रा बढ़ िाता है। कक्षाध्यापक का भार (जकग्रा. में) जकतना है?
+The average weight of 29 students in a class is 48 kg. If the weight of the class teacher is added then the average weight increases by 1/2 kg. What is the weight (in kg) of the class teacher?
+"63 ","65 ","60 ","68"
+63 
+ch_17
+
+57
+एक कक्षा में 30 छा़त्रो ंका औसत विन 15 जकलो है। यजि कक्षा अध्यापक का भी विन इसमेैेैं शाजमल कर जलया िाये तो औसत विन 1 जकलो बढ़ िाता है। कक्षा अध्यापक का विन (जकलो में) जकतना है?
+The average weight of 30 students in a class is 15 kg. If the weight of the class teacher is also included then the average weight increases by 1 kg. What is the weight (in kg) of the class teacher?
+"46 ","45 ","16 ","92"
+46 
+ch_17
+
+58
+जक्रकेटरो ं के एक समूह का औसत स्कोर 42 था। एक नया खिलाड़ी शाजमल होता है और समूह के सिस्यो ं के औसत का 250% स्कोर करता है। पररर्ामस्वरूप समग्र औसत में 30% की वृखि हो िाती है। नया खिलाड़ी शाजमल होने से पहले समूह में जक्रकेटरो ंकी संख्या क्या थी?
+The average score of a group of cricketers was 42. A new player joins and scores 250% of the average of the group members. As a result the overall average increases by 30%. What was the number of cricketers in the group before the new player joined?
+"3 ","5 ","6 ","4"
+4
+ch_17
+
+59
+11 पाररयो ंके बाि, एक बल्ेबाि का प्रजत पारी औसत स्कोर 52 है। 13 पाररयो ंके बाि, औसत बढ़कर 54 हो गया। यजि बल्ेबाि ने 13वी ंपारी में जपछली पारी से 16 रन अजिक बनाए हैं तो उसने 12वी ंपारी में जकतने रन बनाए?
+After 11 innings, the average score per innings of a batsman is 52. After 13 innings, the average increased to 54. If the batsman scored 16 more runs in the 13th innings than in the previous innings, then how many runs did he score in the 12th innings?
+"54 ","57 ","56 ","55"
+57 
+ch_17
+
+60
+12 सिस्यो ं के एक समूह का औसत स्कोर 8 था, िबजक n सिस्यो ंके एक अन्य समूह का औसत स्कोर 10 था। यजि संयुक्त औसत 9.2 था, तो n का मान ज्ञात कीजिए।
+The average score of a group of 12 members was 8, while the average score of another group of n members was 10. If the combined average was 9.2, find the value of n.
+"18 ","24 ","16 ","30"
+18 
+ch_17
+
+61
+पाँच मैचो ंमें एक बैट्समैन द्वारा बनाए गए रनो ंका औसत 125 है। पहले िो मैचो ंमें उसके द्वारा बनाए गए रनो ंका औसत 150 है। अंजतम िो मैचो ंमें बनाए गए रनो ंका औसत 110 है। बैंट्समैन द्वारा तीसरे मैच में जकतने रन बनाए गए?
+The average of runs scored by a batsman in five matches is 125. The average of runs scored by him in the first two matches is 150. The average of runs scored in the last two matches is 110. How many runs were scored by the batsmen in the third match?
+"115 रन ","125 रन 115 runs 125 runs ","105 रन ","95 रन 105 runs 95 runs"
+105 रन 
+ch_17
+
+62
+12 पाररयो ंके बाि, एक बल्ेबाि का प्रजत पारी औसत स्कोर 55 था। 14 पाररयो ंके बाि उसका औसत स्कोर बढ़ कर 60 हो गया। यजि बल्ेबाि ने 14वी ंपारी में जपछली पारी की तुलना में 20 रन अजिक बनाये थे, तो उसने 13वी ंपारी में जकतने रन बनाये थे?
+After 12 innings, a batsman's average score per innings was 55. After 14 innings his average score increased to 60. If the batsman scored 20 more runs in the 14th innings than in the previous innings, then how many runs did he score in the 13th innings?
+"90 ","85 ","80 ","75"
+80 
+ch_17
+
+63
+एक फुटबॉल टूनाणमेट में, ररयल मैजडरड ने 33 गोल जकये और 22 गोल इसके जवरूि जकये गये। ररयल मैजडरड प्रत्येक खिलाड़ी के जलए जकये गये गोलो की औसत संख्या की गर्ना कीजिए?
+In a football tournament, Real Madrid scored 33 goals and 22 goals were conceded against. Calculate the average number of goals scored for each Real Madrid player?
+"1 ","2 ","3 ","0"
+3 
+ch_17
+
+64
+10 पाररयो ंके बाि, जकसी बल्ेबाि का प्रजत पारी औसत स्कोर 52 था। 12 पाररयो ंके बाि औसत स्कोर बढ़कर 54 हो गया। यजि बल्ेबाि ने, जपछली एक पारी की तुलना में 12वी ंपारी में 16 रन अजिक बनाए हैं तो उसने 11वी ंपारी में जकतने रन बनाए?
+After 10 innings, the average score per innings of a batsman was 52. The average score increased to 54 after 12 innings. If the batsman scored 16 more runs in the 12th innings than in the previous one, then how many runs did he score in the 11th innings?
+"55 ","56 ","54 ","53"
+56 
+ch_17
+
+65
+िुकान में जबक्री की मात्रा चार अलग–अलग क्वाटणर के जलए ििण की िाती है। जनम्नजलखित डेटा है– प्रजत क्वाटणर औसत जबक्री क्या है?
+The sales volume in the shop is recorded for four different quarters. The following is the data – What is the average sales per quarter?
+"300 ","500 ","250 ","350"
+300 
+ch_17
+
+66
+जनम्नजलखित ताजलका के आिार पर जिए गए 6 महीनो ंमें इकाई में जनजमणत स्व्रूक्रू की औसत संख्या क्या है?
+What is the average number of screws manufactured in the unit in the given 6 months based on the following table?
+"300 ","200 ","250 ","150"
+250 
+ch_17
+
+67
+एक जनिी खस्वजमंग पूल अपने उपयोगकताणओ ं के जलए अलग- अलग समय स्लॉट उपलब्ध कराता है, और जनम्नजलखित ताजलका सप्ताह के पूल आगंतुको ंकी संख्या को िशाणती है। औसतन, उस सप्ताह के एक जिन में जकतने आगंतुक आए थे?
+A private swimming pool makes different time slots available to its users, and the following table shows the number of pool visitors per week. On average, how many visitors came on a day that week?
+"12 ","16 ","14 ","15"
+16 
+ch_17
+
+68
+िो फुटबॉल टीम, टीम A और टीम B ने टूनाणमेंट में िेला और 6 मैचो ंमें जनम्नजलखित गोल जकए। औसत लक्ष्ो ंके आिार पर हम, क्या जनष्कषण जनकाल सकते हैं?
+Two football teams, Team A and Team B played in the tournament and scored the following goals in 6 matches. What conclusions can we draw based on average goals?
+"टीम A और टीम B के औसत ","टीम A का औसत स्कोर B की स्कोर समान हैं। तुलना में अवधक है। The average scores of Team A The average score of team A and Team B are same. is higher than that of B. ","टीम A टीम B से अवधक संगत ","टीम B का औसत स्कोर टीम A है। की तुलना में अवधक है Team A is more compatible Average score of team B is than Team B. higher than that of team A"
+टीम A और टीम B के औसत 
+ch_17
+
+69
+प्रजत kg (में ) सखियो ंके जलए िो साल के बीच तीन महीने जनम्न ताजलका में जिए गए आकड़ो ंके अनुसार औसत मूल्य में जकतना अंतर प्राप्त होता है?
+What is the difference in average price per kg (in) of vegetables obtained between two years and three months as per the data given in the following table?
+"औसत कीमत में कोई अंतर ","हम मूल्ो ंकी तुलना नही ंकर नही ंहै। सकते हैं। There is no difference in the We cannot compare values. average price. ","िषण 1 में सद्धियो ंकी औसत ","िषण 2 में सद्धियो ंकी औसत मूल् िषण 2 से कम है। मूल् िषण 1 से कम है। The average price of The average price of vegetables in year 1 is less vegetables in year 2 is less than that in year 2. than that in year 1."
+औसत कीमत में कोई अंतर 
+ch_17
+
+70
+चार अलग-अलग जतमाजहयो ंके जलए िुकान के रास्ते से िाने वाले लोगो ं की संख्या ििण की िाती है। इसके जलए जनम्नजलखित डेटा जिया है। सभी जतमाजहयो ंमें िुकान के रास्ते से िाने वाले लोगो ंकी औसत संख्या जकतनी है?
+The number of people passing through the shop is recorded for four different quarters. The following data is given for this. What is the average number of people passing through the shop in all the quarters?
+"12000 ","4000 ","10000 ","3000"
+3000
+ch_17
+
+71
+िी गई ताजलका चार जवषयो,ं P, C, B और M में चार छात्रो,ं W, X, Y औरण Z द्वारा प्राप्त अंको ंको िशाणती है, जिसमें प्रत्येक जवषय में अजिकतम अंक 100 हैं। जवषय C में चारो ंछात्रो ंके औसत अंक हैं।
+The given table shows the marks obtained by four students, W, X, Y and Z in four subjects, P, C, B and M, in which the maximum marks in each subject is 100. What is the average marks of all four students in subject C?
+"67.5 ","67 ","67.75 ","67.25"
+67.5 
+ch_17
+
+72
+िी गई ताजलका चार जवषयो,ं P, C, B और M में चार छात्रो,ं W, X, Y औरण Z द्वारा प्राप्त अंको ंको िशाणती है, जिसमें प्रत्येक जवषय में अजिकतम अंक 100 हैं। चार छात्रो ंके M में औसत अंक जकतने है:
+The given table shows the marks obtained by four students, W, X, Y and Z in four subjects, P, C, B and M, in which the maximum marks in each subject is 100. What is the average marks of four students in M:
+"62 ","62.25 ","62.75 ","62.5"
+62.5
+ch_17
+
+73
+िी गई ताजलका चार जवषयो,ं P, C, B और M में चार छात्रो,ं W, X, Y औरण Z द्वारा प्राप्त अंको ंको िशाणती है, जिसमें प्रत्येक जवषय में अजिकतम अंक 100 हैं। P में चारो ंछात्रो ंके औसत अंक जकतने हैं?
+The given table shows the marks obtained by four students, W, X, Y and Z in four subjects, P, C, B and M, in which the maximum marks in each subject is 100. What is the average marks of all four students in P?
+"68.5 ","68 ","68.75 ","68.25"
+68.75 
+ch_17
+
+74
+एक व्यखक्त का िचण फरवरी तथा माचण प्रत्येक महीने में 10000 रूपये बढ़ गया है। यजि िनवरी में उसका िचण 10,000 रूपये था तो उसका िनवरी से माचण तक का औसत िचण (रूपये में) ज्ञात कीजिए।
+The expenditure of a person has increased by Rs 10,000 in each month of February and March. If his expenditure in January was Rs 10,000 then find his average expenditure (in Rs) from January to March.
+"20000 ","15000 ","10000 ","25000"
+20000 
+ch_17
+
+75
+एक व्यखक्त का िचण फरवरी तथा माचण के महीनो ंमें 50000 रुपये बढ़ गया है। यजि िनवरी में उसका िचण 50000 रुपये था तो उसका िनवरी से माचण तक का औसत िचण (रुपये में) ज्ञात कीजिए।
+The expenditure of a person has increased by Rs 50,000 in the months of February and March. If his expenditure in January was Rs 50000 then find his average expenditure (in Rs) from January to March.
+"100000 ","150000 ","75000 ","50000"
+100000 
+ch_17
+

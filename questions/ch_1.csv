@@ -1,0 +1,1344 @@
+1
+वह छोटी से छोटी संख्या ज्ञात कीजिए, िो
+12, 18, 21 और 30 से जवभाज्य हो। Find the smallest number which is divisible by 12, 18, 21 and 30.
+"1060 ","1260 ","1620 ","1020"
+1260 
+ch_1
+
+2
+एक छात्र ने एक संख्या को 21 से जवभाजित करने के बिाय, 12 से जवभाजित जकया और उसे उत्तर 35 प्राप्त हुआ। सही उत्तर ज्ञात कीजिए।
+A student, instead of dividing a number by 21, divided it by 12 and got the answer 35. Find the correct answer.
+"20 ","15 ","26 ","25"
+20 
+ch_1
+
+3
+वह छोटी से छोटी संख्या ज्ञात कीजिए जिसे 231228 में िोड़ने पर प्राप्त संख्या 33 से पूर्णतः जवभाजित हो।
+Find the smallest number which when added to 231228 is completely divisible by 33.
+"3 ","4 ","2 ","1"
+3 
+ch_1
+
+4
+वह बड़ी से बड़ी संख्या ज्ञात कीजिए, िो
+25, 35, 40 और 30 को पूर्णत: जवभाजित करेगी। Find the largest number which will exactly divide 25, 35, 40 and 30.
+"35 ","15 ","20 ","5"
+5
+ch_1
+
+5
+इनमें से कौन सी संख्या 8 से भाज्य नही ंहै?
+Which of these numbers is not divisible by 8?
+"12676 ","11504 ","12832 ","12360"
+12676 
+ch_1
+
+6
+276x1, 3 से जवभाज्य है। x के संभाजवत मानो ंका योग क्या है?
+276x1 is divisible by 3. What is the sum of possible values of x?
+"18 ","21 ","12 ","15"
+15
+ch_1
+
+7
+एक संख्या प्रर्ाली में 14528 को एक संख्या से जवभाजित करने पर सुरेश को भागफल 83 और शेष 3 प्राप्त होता है। भािक क्या है?
+On dividing 14528 by a number in a number system, Suresh gets the quotient 83 and the remainder 3. What is the denominator?
+"165 ","185 ","195 ","175"
+175
+ch_1
+
+8
+वह सबसे छोटी संख्या ज्ञात कीजिए जिसे 20000 में िोड़ने पर उनका योग 12, 15 और 25 से जवभाज्य हो।
+Find the smallest number which when added to 20000 makes their sum divisible by 12, 15 and 25.
+"180 ","150 ","200 ","100"
+100
+ch_1
+
+9
+1000 से बड़ी वह सबसे छोटी घन संख्या िो 2, 4 और 6 द्वारा जवभाज्य हैः
+The smallest cube number greater than 1000 which is divisible by 2, 4 and 6 is:
+"1296 ","5832 ","1728 ","4096"
+1728 
+ch_1
+
+10
+यजि संख्या
+x4461, 11 से जवभाज्य है तो x का मान क्या है? If the number x4461 is divisible by 11 then what is the value of x?
+"2 ","4 ","3 ","5"
+5
+ch_1
+
+11
+जनम्न में से कौन सी संख्या 9 द्वारा जवभाज्य है?
+Which of the following numbers is divisible by 9?
+"56112 ","89445 ","49653 ","58556"
+49653 
+ch_1
+
+12
+जनम्नजलखित में से कौन-सी संख्या 4 से पूर्णत: जवभाजित है?
+Which of the following numbers is exactly divisible by 4?
+"6542176 ","7253566 ","5632654 ","4187290"
+6542176 
+ch_1
+
+13
+जकसी प्राकृत संख्या को 4, 5, 6 अथवा 7 से जवभाजित करने पर प्रत्येक मामले में 1 शेष बचता है। वह सबसे छोटी संख्या कौन सी है?
+When any natural number is divided by 4, 5, 6 or 7, a remainder of 1 is left in each case. What is that smallest number?
+"421 ","61 ","841 ","211"
+421 
+ch_1
+
+14
+जनम्न में से ऐसी कौन सी सबसे बड़ी संख्या है, िो 105 को जवभाजित करने पर शेषफल 9 िेती है और 164 को जवभाजित करने पर शेषफल 20 िेती है?
+Which of the following is the largest number which, when divided by 105, leaves a remainder of 9 and when divided by 164, leaves a remainder of 20?
+"36 ","48 ","24 ","96"
+48 
+ch_1
+
+15
+वह कौन सी सबसे बड़ी संख्या है िो 2 और 3 शेष रिकर 258 और 323 को क्रमश: जवभाजित करती है।
+What is the largest number which divides 258 and 323 leaving remainders 2 and 3 respectively.
+"40 ","24 ","64 ","132"
+64 
+ch_1
+
+16
+जनम्नजलखित में से कौन सी संख्या 6 से भाज्य है?
+Which of the following numbers is divisible by 6?
+"12378 ","12363 ","12370 ","12388"
+12378 
+ch_1
+
+17
+987x54 संख्या के जलए जिए गए जवकल्ो ंमें अनुपखित अंक 'x' चुनें। ताजक संख्या 6 से पूर्ण जवभाजित हो।
+Select the missing digit 'x' from the given options for the number 987x54. So that the number is exactly divisible by 6.
+"2 ","5 ","3 ","1"
+3 
+ch_1
+
+18
+1265 में से क्या घटाया िाए जक प्राप्त संख्या 29 से पूर्णत: जवभाजित हो िाए?
+What should be subtracted from 1265 so that the number obtained is completely divisible by 29?
+"15 ","16 ","18 ","17"
+18 
+ch_1
+
+19
+जनम्नजलखित में से कौन सी संख्या 1184 में से घटायी िानी चाजहए ताजक प्राप्त संख्या 21 से पूरी तरह जवभाजित हो सके ?
+Which of the following numbers should be subtracted from 1184 so that the resulting number is exactly divisible by 21?
+"15 ","12 ","8 ","7"
+8 
+ch_1
+
+20
+1739 में कम से कम क्या िोड़ा िाए जक यह 11 से पूर्णत: जवभाजित हो िाए?
+What is the minimum amount that must be added to 1739 so that it becomes exactly divisible by 11?
+"11 ","2 ","1 ","10"
+10
+ch_1
+
+21
+वह छोटी-से-छोटी संख्या ज्ञात कीजिए जिसको 1456 में िोड़ने पर यह 6, 5 और 4 से पूर्णत: जवभाजित हो िाती है–
+Find the smallest number which when added to 1456 makes it completely divisible by 6, 5 and 4 –
+"6 ","61 ","44 ","16"
+44 
+ch_1
+
+22
+िब 3¹⁰ को 7 से जवभाजित जकया िाता है, तो शेष ज्ञात कीजिए ।
+Find the remainder when 3¹⁰ is divided by 7.
+"4 ","3 ","5 ","6"
+4 
+ch_1
+
+23
+जनम्न संख्याओ ंमें से कौन-सी संख्या 12 से जवभाज्य है?
+Which of the following numbers is divisible by 12?
+"93412 ","63412 ","73412 ","83412"
+83412
+ch_1
+
+24
+जनम्न में से कौन-सी संख्या 9 से जवभाज्य है?
+Which of the following numbers is divisible by 9?
+"56765 ","47862 ","54321 ","87654"
+47862 
+ch_1
+
+25
+यजि 3x² + ax + 4, x - 5 द्वारा पूर्णतया जवभाज्य हो तो a का मान जकतना है? If 3x² + ax +
+4 is completely divisible by x - 5 then what is the value of a?
+"-12 ","-5 ","-15.8 ","-15.6"
+-15.8 
+ch_1
+
+26
+तीन क्रमागत जवषम संख्याओ ं का योग इनमें से पहली संख्या से 20 अजिक है। इनमें से सबसे बड़ी संख्या ज्ञात करें।
+The sum of three consecutive odd numbers is 20 more than the first number. Find the largest number among these.
+"13 ","9 ","11 ","7"
+11 
+ch_1
+
+27
+यजि 3/11 - If 3/11 -
+
+"0.5 ","1 ","2 ","3"
+0.5 
+ch_1
+
+28
+चार क्रमागत संख्याओ ं का गुर्नफल जनम्नजलखित में से जकस संख्या से हमेशा जवभाज्य होता है?
+The product of four consecutive numbers is always divisible by which of the following numbers?
+"10 ","22 ","24 ","48"
+24 
+ch_1
+
+29
+यजि पहली संख्या और िूसरी संख्या, तीसरी संख्या की तुलना में क्रमश: 25% और 50% अजिक है, तो पहली और िूसरी संख्या के बीच अनुपात ज्ञात कीजिए।
+If the first number and second number are respectively 25% and 50% more than the third number, then find the ratio between the first and second numbers.
+"5 : 6 ","2 : 1 ","6 : 5 ","1 : 2"
+5 : 6 
+ch_1
+
+30
+तीन क्रमागत जवषम पूर्ाांको में से पहले का तीन गुना, तीसरे के िो गुने से 3 अजिक है। तीसरा पूर्ाांक ज्ञात कीजिए।
+Of three consecutive odd integers, three times the first is 3 more than twice the third. Find the third integer.
+"15 ","13 ","11 ","9"
+15 
+ch_1
+
+31
+श्रेर्ी 1 से 99 तक की गर्ना में िहाई के कुल अंक जकतने हैं?
+What is the total number of tens in the range 1 to 99?
+"98 ","90 ","99 ","100"
+90 
+ch_1
+
+32
+श्रृंिला
+12, 19, 26, 33 ……. में 1 वी ंसंख्या क्या होगी? Series 12, 19, 26, 33 What will be the 1st number in?
+"89 ","75 ","82 ","68"
+75 
+ch_1
+
+33
+यजि पररमेय संख्याएं को आरोही क्रम में रिा िाय, तो इनमें से कौन सी संख्या सबसे पहले रिी िाएगी?
+If the rational numbers are arranged in ascending order, then which of the following numbers will be placed first?
+"4/-9 ","-7/18 ","5/-6 ","-2/3"
+5/-6 
+ch_1
+
+34
+श्रेर्ी
+7, 14, 21, 28….. में जकतने पिो ंका योग 952 है? The sum of how many terms in the series 7, 14, 21, 28….. is 952?
+"16 ","17 ","18 ","19"
+16 
+ch_1
+
+35
+िो क्रमानुगत संख्याएँ ज्ञात कीजिए जिनमें पहले अंक का 3 गुना िूसरे अंक के 2 गुने से 5 अजिक हो।
+Find two consecutive numbers in which 3 times the first digit is 5 more than 2 times the second digit.
+"5 और 6 ","6 और 7 5 and 6 6 and 7 ","7 और 8 ","9 और 10 7 and 8 9 and 10"
+7 और 8 
+ch_1
+
+36
+6 + 11 + 16 + 21 + …. + 71, का मान ज्ञात कीजिए।
+Find the value of 6 + 11 + 16 + 21 + …. + 71.
+"539 ","561 ","661 ","639"
+539 
+ch_1
+
+37
+यजि
+11, 17, 23......... एक समान्तर श्रेर्ी में हो, तो 12वाँ पि ज्ञात कीजिए। If 11, 17, 23......... are in an arithmetic progression, then find the 12th term.
+"77 ","83 ","71 ","89"
+77 
+ch_1
+
+38
+जनम्नजलखित में से कौन सी संख्या अभाज्य है?
+Which of the following numbers is prime?
+"263 ","243 ","253 ","273"
+263 
+ch_1
+
+39
+िो अंको ंकी सबसे बड़ी अभाज्य संख्या ज्ञात कीजिए।
+Find the largest two-digit prime number.
+"93 ","89 ","91 ","97"
+97
+ch_1
+
+40
+सबसे छोटी अभाज्य संख्या और (0 को छोड़कर) जकसी भी पूर्ण संख्या का गुर्नफल क्या होगा?
+What will be the product of smallest prime number and any whole number (except 0)?
+"हमेशा शून्य ","हमेशा एक always zero always one ","हमेशा सम संख्या ","हमेशा विषम संख्या always even number always odd number"
+हमेशा सम संख्या 
+ch_1
+
+41
+50 और 80 के बीच की अभाज्य संख्याओ ं के योग का पता लगाएं।
+Find the sum of prime numbers between 50 and 80.
+"392 ","390 ","463 ","396"
+463 
+ch_1
+
+42
+जकन चार जवषम अभाज्य संख्याओ ंका योग 34 है?
+The sum of which four odd prime numbers is 34?
+"1, 3, 5, 7 ","3, 5, 7, 9 ","3, 5, 11, 13 ","3, 7, 11, 13"
+3, 7, 11, 13
+ch_1
+
+43
+1 से 100 तक की जगनती में अंक 2 िहाई के िान पर जकतनी बार आता है?
+How many times does the digit 2 appear in the tens place in counting from 1 to 100?
+"20 ","11 ","10 ","19"
+10 
+ch_1
+
+44
+एक अभाज्य संख्या में ........
+In a prime number.....…
+"दो से ज्यादा भाजक होते हैं। ","केिल खुद से और 1 से There are more than two विभावजत होती है। divisors. Is divisible only by itself and by 1. ","इसका कोई भाजक नही ंहोता। ","धनात्मक पूर्ाांक नही ंहै। It has no divisor. is not a positive integer."
+केिल खुद से और 1 से There are more than two विभावजत होती है। divisors. Is divisible only by itself and by 1. 
+ch_1
+
+45
+1 से 100 तक की जगनती में अंक 5 जकतनी बार आता है?
+How many times does the number 5 occur in counting from 1 to 100?
+"21 ","22 ","20 ","19"
+20 
+ch_1
+
+46
+जनम्न में से कौन से िोड़े सह–अभाज्य हैं
+Which of the following pairs are co-prime
+"348, 296 ","114, 213 ","59, 97 ","3025, 4920"
+59, 97 
+ch_1
+
+47
+जनम्न में से कौन सी संख्या भाज्य है?
+Which of the following numbers is divisible?
+"719 ","709 ","729 ","739"
+729 
+ch_1
+
+48
+पहले 100 प्राकृत संख्याओ ंमें जकतनी अभाज्य संख्याएँ हैं?
+How many prime numbers are there in the first 100 natural numbers?
+"25 ","27 ","24 ","26"
+25 
+ch_1
+
+49
+जनम्नजलखित समुच्चयो ंमें से कौन–सा सह अभाज्य संख्याएँ बनाता है–
+Which of the following sets forms co-prime numbers?
+"(12, 7) ","(21, 42) ","(3, 9) ","(43, 129)"
+(12, 7) 
+ch_1
+
+50
+इनमें से कौन एक जवषम भाज्य संख्या है?
+Which of the following is an odd composite number?
+"13 ","17 ","12 ","15"
+15
+ch_1
+
+51
+पहली 8 जवषम अभाज्य संख्याओ ंका योगफल ज्ञात कीजिए।
+Find the sum of the first 8 odd prime numbers.
+"77 ","98 ","75 ","100"
+98 
+ch_1
+
+52
+िनात्मक पूर्ाांको ं60 और 100 के बीच जकतनी अभाज्य संख्याएँ हैं?
+How many prime numbers are there between the positive integers 60 and 100?
+"9 ","6 ","7 ","8"
+8
+ch_1
+
+53
+इनमें से कौन एक अजवभाज्य संख्या है?
+Which of the following is a prime number?
+"121 ","141 ","181 ","161"
+181 
+ch_1
+
+54
+जनम्न में से कौन सी िोड़ी, ट्वीन प्राइम्स की एक िोड़ी नही ंहै?
+Which of the following pair is not a pair of twin primes?
+"11, 13 ","71, 73 ","131, 133 ","191, 193"
+131, 133 
+ch_1
+
+55
+जनम्न में से कौन सी 1 से 20 तक अंको ंमें अभाज्य अंक श्रृंिला है?
+Which of the following is a prime number series from 1 to 20?
+"3, 5, 7, 11, 13, 17, 19 ","2, 5, 7, 9, 11, 13, 17, 19 ","2, 3, 5, 7, 11, 13, 17, 19 ","1, 2, 3, 5, 7, 11, 13, 17, 19"
+2, 3, 5, 7, 11, 13, 17, 19 
+ch_1
+
+56
+जनम्न संख्याओ ंमें से संयुक्त संख्या कौन सी नही ंहै?
+Which of the following numbers is not a composite number?
+"209 ","203 ","161 ","109"
+109
+ch_1
+
+57
+यजि x + y = 11, तो (-1)ˣ+(+1)ʸ…….के बराबर है (िहाँ x और y पूर्ण संख्या हैं) If x + y =
+11, then (-1)ˣ + (+1)ʸ…….is equal to (where x and y are whole numbers)
+"-1 ","1 ","2 ","0"
+0
+ch_1
+
+58
+30 मीटर लंबे कपड़े से, प्रत्येक 225 सेमी माप वाले 12 टुकड़े काटकर बेचे िाते है तो मूल लंबाई का जकतना भाग शेष बचता है?
+From a 30 meter long cloth, 12 pieces each measuring 225 cm are cut and sold. What fraction of the original length is left?
+"1/3 ","1/9 ","1/10 ","3/10"
+1/10 
+ch_1
+
+59
+यजि जकसी संख्या का 1/7, संख्या से घटाया िाता है, तो पररर्ाम संख्या से 30 कम होता है। संख्या ज्ञात कीजिए। If 1/
+7 of a number is subtracted from the number, the result is 30 less than the number. Find the number.
+"105 ","140 ","120 ","210"
+210
+ch_1
+
+60
+िो संख्याओ ं का गुर्नफल 24 तथा उनके वगो का योगफल 52 है, तो उनका योगफल ज्ञात कीजिए।
+The product of two numbers is 24 and the sum of their squares is 52, then find their sum.
+"5 ","10 ","15 ","20"
+10 
+ch_1
+
+61
+यजि एक संख्या के 5 गुने में से 10 घटाया िाय, तो वह उस संख्या के 4 गुने में 8 िोड़ने पर जमलने वाली संख्या के बराबर होगा, तो वह संख्या क्या है?
+If 10 is subtracted from 5 times a number, then it will be equal to the number obtained by adding 8 to 4 times that number, then what is that number?
+"15 ","18 ","22 ","21"
+18 
+ch_1
+
+62
+िब जकसी संख्या के 8 गुने में 4 िोड़ा िाता है, तो प्राप्त पररर्ाम 3 अंको ंकी सबसे छोटी संख्या होती है। वह संख्या क्या है?
+When 4 is added to 8 times a number, the result obtained is the smallest 3 digit number. What is that number?
+"12 ","10 ","15 ","8"
+12 
+ch_1
+
+63
+िो संख्याओ ं का योग 22 है। एक संख्या का पाँच गुना िूसरी संख्या के 6 गुने के बराबर है। इन िोनो ंमें से बड़ी संख्या बताएं।
+The sum of two numbers is 22. Five times one number is equal to 6 times another number. Name the larger number among these two.
+"12 ","15 ","10 ","16"
+12 
+ch_1
+
+64
+यजि जकसी संख्या को िोगुना करके उसमें 20 िोड़ने पर वही उत्तर जमलता है, िो उसी संख्या को 8 से गुर्ा करके गुर्नफल में से 4 घटाने पर जमलता है, तो संख्या ज्ञात कीजिए।
+If doubling a number and adding 20 to it gives the same answer as multiplying the same number by 8 and subtracting 4 from the product, then find the number.
+"3 ","4 ","6 ","2"
+4 
+ch_1
+
+65
+िो संख्याओ ं का गुर्नफल 9375 है। िब सबसे बड़ी संख्या को सबसे छोटी संख्या से जवभाजित जकया िाता है, तो भागफल 15 प्राप्त होता है। इन संख्याओ ंका योग ज्ञात कीजिए।
+The product of two numbers is 9375. When the largest number is divided by the smallest number, the quotient is 15. Find the sum of these numbers.
+"400 ","380 ","425 ","395"
+400 
+ch_1
+
+66
+यजि जकसी संख्या के एक चौथाई का िो- जतहाई 32 है, तो संख्या ज्ञात कीजिए। If two-
+thirds of one fourth of a number is 32, then find the number.
+"202 ","198 ","196 ","192"
+192
+ch_1
+
+67
+यजि िो संख्याओ ंका योगफल 13 है और उनके वगों का योगफल 97 है, तो उनका गुर्नफल ज्ञात करें।
+If the sum of two numbers is 13 and the sum of their squares is 97, then find their product.
+"72 ","36 ","110 ","84"
+36 
+ch_1
+
+68
+जनम्न में से कौन सी जभन्न संख्या को 13/5 में िोड़ने पर पररर्ाम 1 आता है?
+Which of the following fractions when added to 13/5 gives the result 1?
+"-48/30 ","-7/5 ","-28/10 ","-8/15"
+-48/30 
+ch_1
+
+69
+…………. का उत्तर क्या है?
+What is the answer to -
+"11/24 ","3/8 ","7/16 ","13/28"
+3/8 
+ch_1
+
+70
+शाजलनी, तनवीर और राजशि ने एक केक को साझा जकया। शाजलनी के पास इसका 1/6 भाग था, तनवीर के पास इसका 1/4 भाग था और शेष भाग राजशि के पास था। राजशि का केक का अंश क्या था?
+Shalini, Tanveer and Rashid shared a cake. Shalini had 1/6 of it, Tanveer had 1/4 of it and the remaining part was with Rashid. What was Rashid's share of the cake?
+"5/6 ","3/5 ","13/15 ","7/12"
+7/12
+ch_1
+
+71
+िो संख्याओ ं का योग 9 है। उनके व्युत्क्रमो ं का योग है। इन संख्याओ ंमें से एक है :
+The sum of two numbers is 9. is the sum of their reciprocals. One of these numbers is :
+"2 ","4 ","5 ","6"
+6
+ch_1
+
+72
+एक स्कूल में 200 छात्र है जिसमें छात्र लड़के है। स्कूल में छात्राओ ं की संख्या ज्ञात करे।
+There are 200 students in a school in which the students are boys. Find the number of girl students in the school.
+"80 ","60 ","40 ","120"
+60 
+ch_1
+
+73
+यजि िो संख्याओ ंका योग 26 तथा उनका अन्तर 12 है, तो उनके वगो का अन्तर ज्ञात कीजिए
+If the sum of two numbers is 26 and their difference is 12, then find the difference of their squares.
+"296 ","312 ","324 ","336"
+312 
+ch_1
+
+74
+यजि 2 संख्याओ ंका गुर्नफल इनके योग का 3 गुना है तथा एक संख्या 12 है तो िूसरी संख्या ज्ञात करें–
+If the product of 2 numbers is 3 times their sum and one number is 12, then find the other number –
+"2 ","3 ","4 ","5"
+4 
+ch_1
+
+75
+यजि िो अंको ंका योग 15 है और अंतर 3 है तो वह अंक ......... होगं े–
+If the sum of two digits is 15 and the difference is 3 then those digits will be:
+"8 और 7 ","6 और 9 8 and 7 6 and 9 ","5 और10 ","3 और 12 5 and 10 3 and 12"
+6 और 9 8 and 7 6 and 9 
+ch_1
+
+76
+तीन क्रमागत सम संख्याओ ं का योगफल 42 है। मध्य संख्या को ज्ञात कीजिए।
+The sum of three consecutive even numbers is 42. Find the middle number.
+"12 ","18 ","16 ","14"
+14
+ch_1
+
+77
+िो सहभाजगयो ंM और N ने एक कार िरीिी। M ने बतौर अपने जहस्से कार की लागत के 3/7 का भुगतान जकया। M ने N की तुलना में 31,540 रु. कम जिए। कार की लागत जकतनी है?
+Two participants M and N bought a car. M paid 3/7 of the cost of the car as his share. M earned Rs. 31,540 more than N. Gave less. How much does the car cost?
+"2,32,680 रु ","2,03,175 रु Rs 2,32,680 Rs 2,03,175 ","2,20,780 रु ","1,85,780 रु Rs 2,20,780 Rs 1,85,780"
+2,20,780 रु 
+ch_1
+
+78
+यजि जकसी जपज्जा के 2/3 भाग का मूल्य 300 रु. हो तो जपज्जा के 3/5 भाग का मूल्य क्या होगा ?
+If the cost of 2/3rd portion of a pizza is Rs 300. If so, what will be the price of 3/5th part of the pizza?
+"180 रु ","250 रु Rs 180 Rs 250 ","225 रु ","270 रु Rs 225 Rs 270"
+270 रु Rs 225 Rs 270
+ch_1
+
+79
+िब प्लाईवुड के 0.23 सेंटीमीटर मोटाई वाले 472 टुकड़े, एक िूसरे के ऊपर रिे िाते हैं, तो इस प्रकार बने स्तंभ की मीटर में ऊंचाई जकतनी होगी?
+When 472 pieces of plywood, each 0.23 cm thick, are placed one above the other, what will be the height in meters of the pillar so formed?
+"10.856 ","1.0856 ","108.56 ","1.856"
+1.0856 
+ch_1
+
+80
+लंबाई की 15 छोटी छड़ो ं को िोड़कर एक बड़ी छड़ी बनाई गई। बड़ी छड़ की लंबाई जकतनी होगी?
+One big stick was made by joining 15 small rods of lengths. What will be the length of the bigger rod?
+"","","",""
+
+ch_1
+
+81
+सबसे बड़ी तथा सबसे छोटी िो अंको की अभाज्य संख्याओ ं के अन्तर की गर्ना कीजिए?
+Calculate the difference between the largest and smallest two-digit prime numbers?
+"82 ","83 ","84 ","86"
+86
+ch_1
+
+82
+चार अंको ं वाली वह सबसे बड़ी संख्या क्या है िो 49 से पूर्णत: जवभाज्य है?
+What is the largest four-digit number that is completely divisible by 49?
+"9998 ","9994 ","9992 ","9996"
+9996
+ch_1
+
+83
+4 अंको ंकी वह बड़ी से बड़ी संख्या ज्ञात कीजिए, िो
+15, 25, 40, और 75 से जवभाज्य हो। Find the largest 4 digit number which is divisible by 15, 25, 40, and 75.
+"9200 ","9600 ","9400 ","9000"
+9600 
+ch_1
+
+84
+4 अंको ं की सबसे बड़ी संख्या ज्ञात कीजिए िो 88 से पूर्णत: जवभाज्य हो।
+Find the largest 4 digit number which is completely divisible by 88.
+"9944 ","9844 ","9768 ","8894"
+8894
+ch_1
+
+85
+चार अंको ंकी वह बड़ी संख्या ज्ञात कीजिए, िो
+27, 18, 15 और 12 से पूर्णतया जवभाज्य है। Find the largest four digit number which is completely divisible by 27, 18, 15 and 12.
+"9730 ","9710 ","9700 ","9720"
+9720
+ch_1
+
+86
+6 अंको ंकी बड़ी संख्या प्राप्त करने के जलए 135642 में क्या िोड़ा िाना चाजहए?
+What should be added to 135642 to get a larger 6 digit number?
+"864350 ","863357 ","864357 ","864347"
+864357 
+ch_1
+
+87
+चार अंको ंवाली सबसे बड़ी संख्या ज्ञात कीजिए िो 49 से पूर्णत: जवभाज्य है?
+Find the largest four digit number which is exactly divisible by 49?
+"9992 ","9994 ","9998 ","9996"
+9996
+ch_1
+
+88
+47 से जवभाजित होने वाली चार अंको ंकी सबसे छोटी संख्या ज्ञात करें।
+Find the smallest four digit number divisible by 47.
+"1200 ","1025 ","1034 ","1360"
+1034 
+ch_1
+
+89
+3 अंको की सबसे बड़ी संख्या कौन सी है िो 10, 8 और 12 से पूरी तरह जवभाजित हो िाती है?
+What is the largest 3 digit number which is exactly divisible by 10, 8 and 12?
+"940 ","960 ","980 ","999"
+960 
+ch_1
+
+90
+4 अंको ंवाली सबसे छोटी संख्या ज्ञात करें िो एक पूर्ण वगण हो–
+Find the smallest 4 digit number which is a perfect square –
+"1000 ","1024 ","1081 ","1064"
+1024 
+ch_1
+
+91
+वह छोटी से छोटी 6 अंको ंकी संख्या ज्ञात करे िो 18 का गुर्ि है।
+Find the smallest 6 digit number which is a multiple of18
+"100000 ","999900 ","100008 ","100006"
+100008 
+ch_1
+
+92
+0.125125125….. को पररमेय संख्या के रूप में व्यक्त कीजिए
+Express 0.125125125…..as a rational number.
+"119/993 ","113/990 ","125/999 ","100/999"
+125/999 
+ch_1
+
+93
+सबसे छोटी जभन्न को ज्ञात करें।
+Find the smallest fraction.
+"3/4 ","11/13 ","5/7 ","9/11"
+5/7 
+ch_1
+
+94
+जनम्न में से जकस संख्या का अपररमेय वगणमूल होगा?
+Which of the following numbers will have an irrational square root?
+"21025 ","18025 ","13225 ","15625"
+18025 
+ch_1
+
+95
+1/(2+ √3 ), के हर का पररमेय मान ज्ञात कीजिए:
+Find the rational value of the denominator of 1/(2+ √3 ), :
+"2+ √3 ","2- √3 ","1 ","4+ √3"
+2- √3 
+ch_1
+
+96
+1/(5+2√3) के हर का पररमेय मान ज्ञात कीजिए ।
+Find the rational value of the denominator of 1/(5+2√3).
+"","","",""
+
+ch_1
+
+97
+(4)-3/2 = ?
+
+"1/4 ","8 ","1/8 ","4"
+1/8 
+ch_1
+
+98
+जिए गए जवकल्ो ंमें से 2/4 और 0.6 के बीच आने वाली पररमेय संख्या कौन–सी है?
+Which of the given options is a rational number falling between 2/4 and 0.6?
+"11/25 ","21/40 ","3/4 ","11/4"
+21/40 
+ch_1
+
+99
+जनम्न संख्याओ ंमें से कौन-सी संख्या अपररमेय है?
+Which of the following numbers is irrational?
+"","","",""
+
+ch_1
+
+100
+जनम्नजलखित में से कौन-सी एक पररमेय संख्या है?
+Which of the following is a rational number?
+"","","",""
+
+ch_1
+
+101
+नीचे िी गई संख्याओ ंमें से कौन सी पररमेय संख्या नही ंहै?
+Which of the numbers given below is not a rational number?
+"","","",""
+
+ch_1
+
+102
+सभी अपररमेय संख्याएँ -
+All irrational numbers -
+"पूर्ाांक ","काल्पवनक है Integer Imaginary ","पूर्ण संख्या ","िास्तविक संख्या है whole numbers real number"
+िास्तविक संख्या है whole numbers real number
+ch_1
+
+103
+जनम्नजलखित में से कौन सी संख्या अपररमेय है?
+Which of the following numbers is irrational?
+"","","",""
+
+ch_1
+
+104
+जनम्नजलखित में से कौन सी संख्या अपररमेय है?
+Which of the following numbers is irrational?
+"","","",""
+
+ch_1
+
+105
+जनम्नजलखित में से पररमेय संख्या कौन सी है?
+Which of the following is a rational number?
+"","","",""
+
+ch_1
+
+106
+नीचे िी गई संख्याओ ंमें से जकस का वगणमूल पररमेय है?
+Which of the numbers given below has a rational square root?
+"576 ","512 ","480 ","544"
+512 
+ch_1
+
+107
+जनम्नजलखित में से जकस संख्या का वगणमूल पररमेय होगा?
+The square root of which of the following numbers will be rational?
+"46232 ","46233 ","14448 ","34225"
+34225
+ch_1
+
+108
+जनम्न में से जकस संख्या का वगणमूल अपररमेय है?
+The square root of which of the following numbers is irrational?
+"5184 ","4465 ","3025 ","8836"
+8836
+ch_1
+
+109
+इनमें से जकसका वगणमूल एक पररमेय संख्या है?
+The square root of which of the following is a rational number?
+"336 ","344 ","320 ","324"
+324
+ch_1
+
+110
+जनम्नजलखित में से कौन सी संख्या का वगणमूल अपररमेय होगा?
+The square root of which of the following numbers will be irrational?
+"6441 ","9604 ","7921 ","5776"
+6441 
+ch_1
+
+111
+नीचे िी गई संख्याओ ं में से जकसका वगणमूल एक पररमेय संख्या है?
+The square root of which of the numbers given below is a rational number?
+"144 ","136 ","128 ","120"
+144 
+ch_1
+
+112
+1/(2+ √3) को पररमेय संख्या के रूप में व्यक्त कीजिए।
+Express 1/(2+ √3) as a rational number.
+"5-2√3/12 ","(2-√3)/1 ","(5-2√3)/13 ","5+2√3/13"
+(2-√3)/1 
+ch_1
+
+113
+वह छोटी से छोटी संख्या ज्ञात कीजिए, जिसे 1780 में िोड़ने पर प्राप्त योग पूर्ण वगण हो।
+Find the smallest number which when added to 1780 makes the sum a perfect square.
+"46 ","49 ","69 ","72"
+69 
+ch_1
+
+114
+सबसे छोटा पूर्ाांक ज्ञात कीजिए जिसका घन स्वयं के बराबर है।
+Find the smallest integer whose cube is equal to itself.
+"-1 ","2 ","1 ","0"
+-1 
+ch_1
+
+115
+यजि जकसी संख्या के घन को (153)2 से घटाया िाता है, तो इस प्रकार प्राप्त संख्या 1457 है। संख्या का पता लगाएँ।
+If the cube of a number is subtracted from (153)2, the number thus obtained is 1457. Find the number.
+"18 ","16 ","28 ","24"
+28 
+ch_1
+
+116
+एक िनात्मक पूर्ाांक का पांच गुना इसके वगण के िोगुने से 3 कम है। पूर्ाांक ज्ञात कीजिए।
+Five times a positive integer is 3 less than twice its square. Find the integer.
+"3 ","8 ","2 ","5"
+3 
+ch_1
+
+117
+वह छोटी से छोटी पूर्ण वगण संख्या ज्ञात कीजिए, िो 21, 36 और 66 से जवभाज्य हो।
+Find the smallest perfect square number which is divisible by 21, 36 and 66.
+"214344 ","231444 ","214434 ","213444"
+213444
+ch_1
+
+118
+इनमें से कोैैन सी वगण संख्या को िो अभाज्य संख्याओ ंके योग के रूप में व्यक्त नही ंजकया िा सकता है?
+Which of the following square numbers cannot be expressed as the sum of two prime numbers?
+"81 ","49 ","121 ","144"
+121 
+ch_1
+
+119
+जकसी संख्या के वगण के तीन गुने से संख्या के 4 गुने को घटाने पर प्राप्त संख्या उस संख्या से 50 अजिक है। संख्या ज्ञात करें।
+By subtracting 4 times the number from 3 times the square of a number, the number obtained is 50 more than that number. Find the number.
+"5 ","4 ","6 ","10"
+5 
+ch_1
+
+120
+जनम्न में से कौन सा पूर्ण वगण नही ंहै?
+Which of the following is not a perfect square?
+"2025 ","16641 ","1250 ","9801"
+1250 
+ch_1
+
+121
+इनमें से कौन सी संख्या िो वगों का योग नही ंहै?
+Which of these numbers is not the sum of two squares?
+"41 ","13 ","23 ","37"
+23 
+ch_1
+
+122
+इनमें से कौन-सा पूर्ण वगण है?
+Which of the following is a perfect square?
+"9801 ","9887 ","9013 ","9016"
+9801 
+ch_1
+
+123
+यजि जकसी संख्या के वगण का अंजतम अंक 1 है। तो उसके घन का अंजतम अंक जकतना होगा?
+If the last digit of the square of a number is 1. Then what will be the last digit of its cube?
+"केिल 9 ","1 या 9 only 9 1 to 9 ","कोई भी विषम संख्या ","केिल 1 any odd number only 1"
+1 या 9 only 9 1 to 9 
+ch_1
+
+124
+िो संख्याओ ंका योगफल और अंतर क्रमश: 25 और 3 है। उनके वगों का अतंर ज्ञात करें।
+The sum and difference of two numbers are 25 and 3 respectively. Find the difference of their squares.
+"165 ","75 ","154 ","140"
+75 
+ch_1
+
+125
+100 और 200 के बीच जकतने पूर्ण वगण हैं?
+How many perfect squares are there between 100 and 200?
+"7 ","4 ","6 ","5"
+4 
+ch_1
+
+126
+4042 में कौन सी छोटी-से छोटी संख्या िोड़ी िाए, जिससे यह पूर्ण वगण बन िाए?
+What is the smallest number that can be added to 4042 to make it a perfect square?
+"41 ","54 ","64 ","58"
+54 
+ch_1
+
+127
+संख्या137592 को उस सबसे छोटी संख्या से जवभाजित कीजिए जक कोई शेष न बचे और भागफल एक पूर्ण घन हो। भागफल का घनमूल ज्ञात कीजिए।
+Divide the number 137592 by the smallest number such that there is no remainder and the quotient is a perfect cube. Find the cube root of the quotient.
+"8 ","2 ","4 ","6"
+6
+ch_1
+
+128
+एक िनात्मक संख्या अपने वगणमूल से 30 ही अजिक है, तो संख्या ज्ञात कीजिए।
+If a positive number is greater than its square root by only 30, then find the number.
+"16 ","36 ","25 ","49"
+36 
+ch_1
+
+129
+वह छोटी से छोटी संख्या जिसको15 और 14 के वगो के योग में िोड़ा िाना चाजहए ताजक पररर्ामस्वरूप प्राप्त संख्या एक पूर्ण वगण हो सके?
+What is the smallest number that should be added to the sum of squares of 15 and 14 so that the resulting number is a perfect square?
+"17 ","20 ","11 ","9"
+20 
+ch_1
+
+130
+1 से 9 तक की संख्याओ ं के वगाणैेैं के योगफल की गर्ना कीजिए।
+Calculate the sum of squares of numbers from 1 to 9.
+"284 ","285 ","385 ","380"
+285 
+ch_1
+
+131
+1 से 10 तक की संख्याओ ं के वगों के योगफल की गर्ना कीजिए?
+Calculate the sum of squares of numbers from 1 to 10?
+"384 ","285 ","385 ","380"
+385 
+ch_1
+
+132
+256 के जकतने गुर्निंड पूर्ण वगण हैं?
+How many factors of 256 are perfect squares?
+"5 ","3 ","6 ","4"
+5 
+ch_1
+
+133
+7864 में जकस न्यूनतम संख्या का योग करें जक यह पूर्ण वगण बन िाए?
+What minimum number should be added to 7864 so that it becomes a perfect square?
+"61 ","57 ","71 ","79"
+57 
+ch_1
+
+134
+एक िनात्मक पूर्ाांक को 4050 से गुर्ा करने पर यह संख्या पूर्ण वगण बन िाती है। इस संख्या का वगण मूल ज्ञात कीजिए।
+Multiplying a positive integer by 4050 makes the number a perfect square. Find the square root of this number.
+"95 ","80 ","90 ","85"
+90 
+ch_1
+
+135
+जनम्नजलखित में से कौन सी संख्या एक पूर्ण वगण है?
+Which of the following numbers is a perfect square?
+"0.09 ","8.1 ","0.025 ","All"
+0.09 
+ch_1
+
+136
+मूल्यांकन करें -
+do the Evolution –
+"5 ","√30 ","6 ","5.8"
+6 
+ch_1
+
+137
+इनमें से जकस संख्या के सवाणजिक भािक हैं ?
+Which of these numbers has the highest divisor?
+"156 ","240 ","172 ","200"
+240 
+ch_1
+
+138
+जिये गये गुर्निंड (3451)⁵¹ x (531)⁴³ में इकाई का अंक ज्ञात जकजिए ।
+Find the units place in the given factor (3451)⁵¹ x (531)⁴³.
+"6 ","4 ","1 ","9"
+1 
+ch_1
+
+139
+729 के जकतने गुर्न-िंड पूर्ण वगण हैं?
+How many factors of 729 are perfect squares?
+"5 ","4 ","3 ","2"
+3 
+ch_1
+
+140
+2⁸ × 3² × 5³ × 7⁵ के जकतने गुर्क सम संख्याएँ हैं?
+How many multiples of 2⁸ × 3² × 5³ × 7⁵ are even numbers?
+"288 ","168 ","576 ","464"
+576 
+ch_1
+
+141
+2⁹ × 3⁵ ×5⁴ x 7⁶ के जकतने गुर्क जवषम संख्याएँ हैं?
+How many multiples of 2⁹ × 3⁵ ×5⁴ x 7⁶ are odd numbers?
+"288 ","144 ","210 ","140"
+210 
+ch_1
+
+142
+213⁶ का अंजतम अंक क्या है?
+What is the last digit of 213⁶?
+"6 ","3 ","7 ","9"
+9
+ch_1
+
+143
+सबसे छोटी प्राकृजतक संख्या 216 में जकससे गुर्ा जकया िाना चाजहए ताजक गुर्नफल के कारको ंकी संख्या जवषम हो?
+What is the smallest natural number 216 that should be multiplied so that the product has an odd number of factors?
+"4 ","6 ","12 ","8"
+6 
+ch_1
+
+144
+[4523¹⁶³² × 2224¹⁶³² x 3225¹⁶³²] में इकाई के िान वाला अंक क्या होगा?
+What will be the digit at the ones place in [4523¹⁶³² × 2224¹⁶³² x 3225¹⁶³²]?
+"1 ","0 ","4 ","5"
+0 
+ch_1
+
+145
+{(8)¹⁰ × (9)⁷ ×7⁸} के गुर्नफल में कुल अभाज्य गुर्निंड ज्ञात कीजिए ।
+Find the total prime factors in the product of {(8)¹⁰ × (9)⁷ ×7⁸}.
+"45 ","54 ","52 ","65"
+52 
+ch_1
+
+146
+{(16)⁷ × (27)⁶ × 5⁹ } के गुर्नफल का कुल अभाज्य गुर्निंड ज्ञात कीजिए ।
+Find the total prime factors of the product {(16)⁷ × (27)⁶ × 5⁹ }.
+"28 ","43 ","55 ","56"
+55 
+ch_1
+
+147
+जिए गए गुर्फलो ं( 4211)¹⁰² × (361)⁵² में इकाई का अंक ज्ञात कीजिए ।
+Find the ones place in the given product (4211)¹⁰² × (361)⁵².
+"3 ","1 ","4 ","7"
+1 
+ch_1
+
+148
+जनम्नजलखित में इकाई का अंक ज्ञात करें: (1234)¹⁰² + (1234)¹⁰³
+Find the units digit in the following: (1234)¹⁰² + (1234)¹⁰³
+"2 ","4 ","0 ","1"
+0 
+ch_1
+
+149
+वह बड़ी से बड़ी संख्या ज्ञात कीजिए, जिससे
+115, 149 और 183 को जवभाजित करने पर क्रमश: 3, 5, 7 बचेगा। Find the largest number by which dividing 115, 149 and 183 will leave 3, 5, 7 respectively.
+"20 ","16 ","18 ","14"
+16 
+ch_1
+
+150
+वह छोटी से छोटी संख्या ज्ञात कीजिए, जिसे
+5, 6, 7, 8, से जवभाजित करने पर 3 शेष बचता हो, और संख्या 9 की गुर्ि भी हो। Find the smallest number which, when divided by 5, 6, 7, 8, leaves a remainder of 3, and is also a multiple of 9
+"1683 ","843 ","1677 ","1983"
+1677 
+ch_1
+
+151
+जकसी संख्या को 10, 9 और 8 से अलग-अलग जवभाजित करने पर क्रमश: 9, 8 और 7 शेषफल बचता है। उनमें से सबसे छोटी संख्या ज्ञात कीजिए।
+When a number is divided by 10, 9 and 8 separately, the remainder is 9, 8 and 7 respectively. Find the smallest number among them.
+"353 ","719 ","1359 ","359"
+359
+ch_1
+
+152
+िब जकसी संख्या को जकसी भािक द्वारा जवभाजित जकया िाता है, तो शेषफल 24 बचता है। िब उसी संख्या के िोगुने को उसी भािक द्वारा जवभाजित जकया िाता है, तो शेषफल 15 बचता है। भािक ज्ञात करें।
+When a number is divided by a divisor, the remainder is 24. When twice the same number is divided by the same divisor, the remainder is 15. Find the denominator.
+"9 ","33 ","23 ","35"
+33 
+ch_1
+
+153
+वह छोटी से छोटी संख्या ज्ञात कीजिए, जिसे
+8, 12, 18 से जवभाजित करने पर क्रमश: 6, 10, 16 शेष बचता हो– Find the smallest number which when divided by 8, 12, 18 leaves remainder 6, 10, 16 respectively –
+"74 ","144 ","146 ","70"
+70
+ch_1
+
+154
+वह सबसे छोटी संख्या ज्ञात कीजिए, जिसमें से यजि 6 कम कर जिए िाये तो वह
+12, 15, 20 तथा 27 से पूर्णत: जवभाजित हो िाती है। Find the smallest number from which, if 6 is subtracted, it is completely divisible by 12, 15, 20 and 27
+"542 ","540 ","546 ","500"
+542 
+ch_1
+
+155
+वह बड़ी से बड़ी संख्या ज्ञात कीजिए जिससे 3050 तथा 5200 को जवभाजित करने पर शेष क्रमश: 7 तथा 9 बचता है?
+Find the largest number by which when dividing 3050 and 5200 the remainder remains 7 and 9 respectively?
+"149 ","111 ","153 ","179"
+179
+ch_1
+
+156
+एक संख्या को िब 327 से जवभाजित जकया िाता है तो 43 शेष रह िाता है। इसी संख्या को िब 19 से जवभाजित जकया िाए तो शेष होगा?
+When a number is divided by 327, the remainder is 43. What will be the remainder when this number is divided by 19?
+"5 ","18 ","13 ","7"
+5 
+ch_1
+
+157
+N एक पूर्ण संख्या है जिसे िब 6 से जवभाजित जकया िाता है तो शेष 4 बचता है। यजि 2N को 6 से जवभाजित जकया िाये तो शेष क्या बचेगा?
+N is a whole number which when divided by 6 leaves remainder 4. What will be left if 2N is divided by 6?
+"4 ","8 ","2 ","शून्य Zero"
+2 
+ch_1
+
+158
+िो अंको ंवाली संख्या में 18 िोड़ने पर उस संख्या के अंक आपस में बिल िाते हैं। अंको ंका गुर्नफल '8' है। संख्या ज्ञात करें।
+When 18 is added to a two-digit number, the digits of that number are interchanged. The product of numbers is '8'. Find the number.
+"42 ","18 ","32 ","24"
+24
+ch_1
+
+159
+िो अंको ं वाली एक संख्या के अंको ं का योग 10 है। िब अंक आपस में बिल जिए िाते हैं तो संख्या 36 कम हो िाती है। बिली हुई संख्या ज्ञात कीजिए।
+The sum of the digits of a two-digit number is 10. When the digits are interchanged the number is reduced by 36. Find the changed number.
+"82 ","73 ","37 ","28"
+37 
+ch_1
+
+160
+िो अंको की एक संख्या और उसके िोनो ंअंको के िान आपस में बिलने के बाि प्राप्त संख्या का योग132 है। यजि अंको ं का अंतर 4 हो, तो संख्या ज्ञात कीजिए।
+The sum of a two-digit number and the number obtained after interchanging the places of its two digits is 132. If the difference of digits is 4, find the number.
+"37 ","84 ","73 ","62"
+84 
+ch_1
+
+161
+िो अंको ंकी एक संख्या के अंको ंका योग 12 है। यजि अंको ंके िान आपस में पररवजतणत कर जिए िाएँ, तो प्राप्त संख्या मूल संख्या से 18 ज्यािा हो िाती है। मूल संख्या क्या है?
+The sum of the digits of a two-digit number is 12. If the places of the digits are interchanged, the number obtained is 18 more than the original number. What is the original number?
+"39 ","48 ","75 ","57"
+57
+ch_1
+
+162
+िो अंको ंकी संख्या के अंको ंका योग 9 है साथ ही इस संख्या का 9 गुना, अंको ं के उल्टे क्रम से प्राप्त संख्या से िोगुना है। संख्या ज्ञात करें।
+The sum of the digits of a two-digit number is 9 and 9 times this number is twice the number obtained by reverse order of the digits. Find the number.
+"19 ","18 ","28 ","30"
+18 
+ch_1
+
+163
+एक िो अंको ंकी संख्या के अंको ंका योग 11 है। यजि हम उसके अंको ंको परस्पर बिल िेते हैं, तो बनी हुई नई संख्या मूल से 45 से कम हो िाती है। मूल संख्या ज्ञात करें।
+The sum of the digits of a two-digit number is 11. If we interchange its digits, the new number formed is less than the original by 45. Find the original number.
+"92 ","56 ","65 ","83"
+83
+ch_1
+
+164
+िो अंको की संख्या तथा अंको के िान आपस में बिलने पर बनी नयी संख्या का अन्तर 45 है। िोनो ंअंको के बीच का अन्तर ज्ञात कीजिए
+The difference between a two-digit number and the new number formed by interchanging the digits is 45. Find the difference between the two numbers
+"4 ","5 ","6 ","7"
+5 
+ch_1
+
+165
+िो अंको की एक संख्या के अंको का योग 11 है। यजि अंको ंके िान आपस में बिल जिए िाते हैं तो संख्या 63 कम हो िाती है। संख्या ज्ञात कीजिए।
+The sum of the digits of a two-digit number is 11. If the positions of the digits are interchanged then the number is reduced by 63. Find the number.
+"83 ","92 ","29 ","38"
+92 
+ch_1
+
+166
+िो अंको वाली संख्या के अंको का योग 9 है। िब संख्या मेैेैं 27 िोड़ा िाता है, तो अंको के िान आपस में बिल िाते है। संख्या ज्ञात करें।
+The sum of the digits of a two-digit number is 9. When 27 is added to the number, the positions of the digits are interchanged. Find the number.
+"45 ","36 ","18 ","27"
+36 
+ch_1
+
+167
+एक िो अंको ंकी संख्या के अंको का योग 13 है। यजि उन अंको को आपस में बिल जिया िाता है, तो संख्या 27 से घटती है। बिली हुई संख्या ज्ञात कीजिए।
+The sum of the digits of a two-digit number is 13. If those digits are interchanged, the number decreases by 27. Find the changed number.
+"85 ","76 ","67 ","58"
+58
+ch_1
+
+168
+िो अंको ंवाली संख्या का योग 9 है। िब अंको ंके िान आपस में बिल जिए िाते हैं तो संख्या 45 से कम हो िाती है बिली हुई संख्या ज्ञात कीजिए।
+The sum of two-digit numbers is 9. When the positions of the digits are interchanged the number becomes less than 45. Find the changed number.
+"45 ","72 ","63 ","27"
+27
+ch_1
+
+169
+िो अंको ंकी एक संख्या के अंको ंका योग 10 है। यजि अंक आपस में बिल जिए िाएं, तो संख्या में 54 की कमी हो िाती है, नई संख्या ज्ञात कीजिए।
+The sum of the digits of a two-digit number is 10. If the digits are interchanged, the number is reduced by 54. Find the new number.
+"73 ","28 ","82 ","37"
+28 
+ch_1
+
+170
+एक संख्या के िो अंको का योग 10 है। यजि अंक आपस में बिल जिये िाते हैं, तो इसका मान 18 बढ़ िाता है। संख्या का पता लगाएं।
+The sum of two digits of a number is 10. If the digits are interchanged, its value increases by 18. Find the number.
+"46 ","64 ","19 ","28"
+46 
+ch_1
+
+171
+एक िो अंको ंकी संख्या का और उसके अंको ंको आपस में बिल िेने से बनी संख्या का योग 99 है। यजि िोनो ंअंको ंका 3 अंतर है, तो संख्या ज्ञात कीजिए।
+The sum of a two-digit number and the number formed by interchanging its digits is 99. If the difference between the two digits is 3, then find the number.
+"27 ","63 ","45 ","54"
+63 
+ch_1
+
+172
+एक िो अंको की संख्या और संख्या के अंको को परस्पर बिल लेने से प्राप्त संख्या के बीच अंतर 54 है। उस संख्या के िोनो ंअंको के बीच क्या अंतर है?
+The difference between a two-digit number and the number obtained by interchanging the digits of the number is 54. What is the difference between the two digits of that number?
+"6 ","7 ","8 ","9"
+6 
+ch_1
+
+173
+िो अंको ंकी संख्या के अंको ंका योगफल 5 है। िब अंक उलट जिए िाते हैं तो संख्या 9 कम हो िाती है। तो पररवजतणत संख्या क्या होगी?
+The sum of the digits of a two-digit number is 5. When the digits are reversed the number 9 is reduced. Then what will be the converted number?
+"32 ","23 ","41 ","14"
+23 
+ch_1
+
+174
+संख्या 3675149 में ‘5’ के िानीय और अंजकत मान के बीच का अंतर ज्ञात कीजिए।
+Find the difference between the place and face value of ‘5’ in the number 3675149
+"5000 ","4995 ","495 ","4990"
+4995 
+ch_1
+
+175
+175. 634785 में 8 का िानीय मान क्या है?
+What is the place value of 8 in 634785?
+"8 ","80 ","800 ","80000"
+80 
+ch_1
+
+176
+संख्या 206743 में 6 के अंजकत मान और िानीय मान का योग जकतना है?
+What is the sum of the face value and place value of 6 in the number 206743?
+"6749 ","12743 ","6006 ","12"
+6006 
+ch_1
+
+177
+
+935071360 में िो 3 के िानीय मान के बीच क्या अंतर है? What is the difference between the place values of two 3's in 935071360?
+"29999700 ","29999701 ","2999600 ","29999400"
+29999700 
+ch_1
+
+178
+3728456 में 7 के अंजकत मान और िानीय मान के योग की गर्ना कीजिए?
+Calculate the sum of face value and place value of 7 in 3728456?
+"700007 ","0 ","7 ","700000"
+700007 
+ch_1
+
+179
+145.390 में 4 का अंजकत मान क्या है?
+What is the face value of 4 in 145.390?
+"40000 ","4 ","140000 ","45"
+4 
+ch_1
+
+180
+229301 में 9 के िानीय मान तथा अंजकत मान का अंतर ज्ञात करें।
+Find the difference between the place value and face value of 9 in 229301.
+"9292 ","8991 ","0 ","220"
+8991 
+ch_1
+
+181
+संख्या 273965 में ३ के िानीय मान और अंजकत मान में अन्तर जकतना है?
+What is the difference between the place value and face value of 3 in the number 273965?
+"2035 ","3962 ","2997 ","0"
+2997 
+ch_1
+
+182
+संख्या
+833749502 में '4' और '2' के िानीय मान का अंतर है: The difference between the place values of '4' and '2' in the number 833749502 is:
+"49998 ","30098 ","39098 ","39998"
+39998
+ch_1
+
+183
+हल कीजिए : Solve :
+
+"2 ","1/50 ","3 ","1/22"
+2 
+ch_1
+
+184
+एक स्कूल जपकजनक के समूह में, 2/9 भाग वयस्क थे और वयस्को ंकी तुलना में बच्चो ंकी संख्या 95 अजिक थी। वहां जकतने बच्चे मौिूि थे?
+In a group at a school picnic, 2/9th were adults and the number of children was 95 more than that of adults. How many children were present there?
+"95 ","133 ","190 ","103"
+133 
+ch_1
+
+185
+52-|8-20|= का मान ज्ञात करें।
+Find the value of 52-|8-20|=.
+"45 ","40 ","65 ","64"
+40 
+ch_1
+
+186
+यजि एक ििणन सेब का भार 1.8 kg है तब 3 बक्ो ं जिनका सामूजहक भार 23.25kg है में जकतने सेब होगं े?
+If the weight of a dozen apples is 1.8 kg, then how many apples will be there in 3 boxes whose combined weight is 23.25 kg?
+"280 ","155 ","465 ","215"
+155 
+ch_1
+
+187
+उस समुच्चय को चुने िो 36 के गुर्निण्ो ंसे बनता है।
+Select the set which is made up of factors of 36.
+"(2, 3, 4, 6, 9) (","","(2, 3, 4, 6) ","(2, 3, 4, 6, 9, 12, 18) "
+(2, 3, 4, 6) 
+ch_1
+
+188
+िो संख्याओ ं का अंतर 5 है। यजि उनका गुर्नफल 336 है, तो िोनो ंसंख्याओ ंका योग ज्ञात कीजिए।
+The difference of two numbers is 5. If their product is 336, then find the sum of both the numbers.
+"21 ","37 ","28 ","51"
+37 
+ch_1
+
+189
+एक संख्या का वगण उसी संख्या के िोगुने से 3 अजिक है। वह संभाजवत संख्या क्या है?
+The square of a number is 3 more than twice the same number. What is that possible number?
+"1 या 3 ","1 या -3 1 or 3 1 to -3 ","-1 या -3 ","-1 या 3 -1 to -3 -1 to 3"
+-1 या 3 -1 to -3 -1 to 3
+ch_1
+
+190
+1000.03 में से 64.37 घटाने और इससे प्राप्त पररर्ाम को 3.4 और 7.56 के योग के पररर्ाम में िोड़ने पर इसका मान क्या होगा?
+What will be the value of subtracting 64.37 from 1000.03 and adding the result to the sum of 3.4 and 7.56?
+"948.62 ","944.62 ","945.62 ","946.62"
+946.62
+ch_1
+
+191
+सीमा को अपने जपता से ` 50 जमले जिसमें से उसने ` 15 की टॉफी िरीिी। उसकी माँ ने ` 30 जिए पर उसके भाई ने उससे ` 42 ले जलए। उसके पास जकतने रुपये बचे?
+Seema received ` 50 from her father from which she bought toffee worth ` 15. His mother gave ` 30 but his brother took ` 42 from her. How much money is left with him?
+"` 23 ","` 24 ","` 20 ","` 25"
+` 23 
+ch_1
+
+192
+गीता का विन 11.235 जकग्रा. है। उसके बहन का विन उसके विन का 1.4 गुना है। िोनो ंका कुल विन ज्ञात करें। Geeta'
+s weight is 11.235 kg. Is. His sister's weight is 1.4 times his weight. Find the total weight of both.
+"15.729 वकग्रा ","25.964 वकग्रा 15>729 kg 25>964 kg ","26.964 वकग्रा ","28.964वकग्रा 26>964 kg 28>964kg"
+26.964 वकग्रा 
+ch_1
+

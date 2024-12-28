@@ -1,0 +1,336 @@
+1
+170 पररवारो ंके एक सवेक्षर् में 115 कॉफी, 110 चाय और 130 िूि पीते हैं। इसके अलावा, 85 कॉफी और िूि, 75 कॉफी और चाय, 95 चाय और िूि, 70 तीनो ं पीते हैं। पता करें जक जकतने कॉफी और िूि का उपयोग करते हैं लेजकन चाय का नही।ं
+In a survey of 170 families, 115 drink coffee, 110 tea and 130 drink milk. In addition, 85 drink coffee and milk, 75 coffee and tea, 95 tea and milk, 70 drink all three. Find out how many use coffee and milk but not tea.
+"15 ","18 ","20 ","25"
+15 
+ch_23
+
+2
+जनम्न वेन आरेि 50 छात्रो ंको िशाणता है िो व्यवसाजयक प्रजशक्षर् A, B और C लेते है। प्रत्येक छात्र कम से कम एक प्रजशक्षर् सत्र में भाग लेता है। प्रजशक्षर् सत्रो ंमें से कम से कम एक सत्र में वास्तव में जकतने छात्र भाग लेते हैं?
+The following Venn diagram shows 50 students who take vocational training A, B and C. Every student attends at least one training session. How many students actually attend at least one of the training sessions?
+"30 ","14 ","20 ","32"
+32
+ch_23
+
+3
+उपयुणक्त वेन आरेि उन छात्रो ंको िशाणता है, िो एक कक्षा में 3 िेल M, N और L िेलते हैं। िेल N िेलने वाले छात्रो ंकी कुल संख्या है-
+The above Venn diagram shows students who play 3 games M, N and L in a class. The total number of students playing game N is-
+"64 ","41 ","9 ","23"
+64 
+ch_23
+
+4
+उपयुणक्त वेन आरेि उन छात्रो ंको िशाणता है, िो एक कक्षा में 3 िेल M, N और L िेलते हैं। एक िेल िेलने वाले छात्रो ंकी कुल संख्या है-
+The above Venn diagram shows students who play 3 games M, N and L in a class. The total number of students playing a game is-
+"71 ","75 ","70 ","72"
+70 
+ch_23
+
+5
+जिए गए वेन आरेि के आिार पर, जनम्न प्रश्न का उत्तर िें। A- िो लोग कुशल हैं। B- िो लोग ईमानिार हैं। C- िो लोग पररश्रमी हैं। कौन-सा रेिािण् उन लोगो ंका प्रजतजनजित्व करता है िो केवल मेहनती है लेजकन ईमानिार या कुशल नही ंहैं?
+Based on the given Venn diagram, answer the following question. A- People who are skilled. B- People who are honest. C- People who are hardworking. Which line segment represents people who are merely hard-working but not honest or efficient?
+"c-(v+t) ","c ","c-(v+s+t) ","c-(v+s)"
+c-(v+s+t) 
+ch_23
+
+6
+उपयुणक्त वेन आरेि उन छात्रो ंको िशाणता है िो एक कक्षा में 3 िेल M, N और L िेलते है। िेल L िेलने वाले छात्रो ंकी कुल संख्या है?.
+The above Venn diagram shows the students who play 3 games M, N and L in a class. The total number of students playing game L is?
+"41 ","18 ","40 ","23"
+40 
+ch_23
+
+7
+जिया गया आरेि उन छात्रो ंकी संख्या को प्रिजशणत करता है, िो कक्षा में फुटबॉल (F) हॉकी (H) और बॉस्केटबॉल (B) िेलते हैं। उन छात्रो ंकी संख्या जकतनी है िो कक्षा में बॉस्केटबॉल िेलते हैं?
+The given diagram represents the number of students who play Football (F), Hockey (H) and Basketball (B) in the class. What is the number of students who play basketball in the class?
+"20 ","62 ","49 ","53"
+62 
+ch_23
+
+8
+नीचे जिया गया आरेि कक्षा में फुटबॉल (F), हॉकी (H) और बास्केटबॉल (B) िेलने वाले जवद्याजथणयो ंकी संख्या िशाणता है। िेल F िेलने वाले जवद्याजथणयो ंकी कुल संख्या क्या है?
+The diagram given below shows the number of students playing Football (F), Hockey (H) and Basketball (B) in the class. What is the total number of students playing game F?
+"9 ","49 ","53 ","62"
+49 
+ch_23
+
+9
+जिया गया वेन आरेि, कॉलेि के 77 छात्रो ंके एक समूह की िेल प्राथजमकताओ ं का प्रजतजनजित्व करता है । तीन िेल A- बैडजमंटन, B – बॉस्केटबॉल और C - टेजनस हैं। जकतने छात्र ऐसे है िो बॉस्केटबॉल िेलना पसंि करते हैं, लेजकन टेजनस नही?ं
+The given Venn diagram represents the sports preferences of a group of 77 college students. Three sports are A – Badminton, B – Basketball and C – Tennis. How many students like to play basketball but not tennis?
+"17 ","24 ","35 ","15"
+24 
+ch_23
+
+10
+जिया गया वेन आरेि कुल 50 छात्रो ं को जििाता है, िो तीन जवजभन्न परीक्षाओ ं A, B और C में बैठे। सभी कम से कम एक परीक्षा में उपखित हुए। इनमें से जकतने वास्तव में जकसी एक परीक्षा में बैठे हैं?
+The given Venn diagram shows a total of 50 students who appeared for three different examinations A, B and C. All appeared in at least one examination. How many of these have actually appeared for any one exam?
+"32 ","13 ","20 ","18"
+13 
+ch_23
+
+11
+जिया गया वेन आरेि कुल 50 रोजगयो ं को िशाणता है। जिन्होनं े तीन उपचारो:ं A, B और C में से कम से कम एक का चयन जकया है। जकतने लोगो ंने वास्तव में एक उपचार का चयन जकया है?
+The given Venn diagram represents a total of 50 patients. Who have selected at least one of the three treatments: A, B and C. How many people actually choose a treatment?
+"16 ","32 ","28 ","30"
+32 
+ch_23
+
+12
+जिया गया वेन आरेि कुल 30 िुकानो ंको जििाता है, िो जकसी जवक्रेता से तीन अलग-अलग ब्ांड के जबस्कुट (A, B, और C) िरीिते हैं। प्रत्येक िुकान जवक्रेता से कम से कम एक ब्ांड िरीिता है। जवक्रेता से ब्ांड A जबस्कुट जकतनो ंने िरीिा था ?
+The given Venn diagram shows a total of 30 shops, which purchase three different brands of biscuits (A, B, and C) from a vendor. Every shop buys at least one brand from the seller. How many people bought brand A biscuits from the seller?
+"16 ","20 ","18 ","30"
+16 
+ch_23
+
+13
+आरेि एक कक्षा में फुटबॉल (F), हॉकी (H) और बास्केटबाल (B) िेलने वाले छात्रो ंकी संख्या िशाणता है। िेल H िेलने वाले छात्रो ं की कुल संख्या है:
+The diagram shows the number of students playing Football (F), Hockey (H) and Basketball (B) in a class. The total number of students playing game H is:
+"62 ","53 ","12 ","49"
+53 
+ch_23
+
+14
+जिया गया वेन आरेि, कॉलेि के छात्रो ं के एक समूह की िेल प्राथजमकताओ ं का प्रजतजनजित्व करता है। तीन िेल : A- बैडजमंटन, B- बास्केटबॉल और C- टेजनस हैं। जकतने छात्र टेजनस िेलते हैं परन्तु बास्केटबॉल नही ंिेलते?
+The given Venn diagram represents the sports preferences of a group of college students. There are three sports: A- Badminton, B- Basketball and C- Tennis. How many students play tennis but not basketball?
+"20 ","12 ","17 ","40"
+20 
+ch_23
+
+15
+उपरोक्त आकृजत कक्षा के उन जवद्याजथणयो ंको िशाणती है। िो तीन भाषाएं पढ़ते हैं। केवल एक भाषा पढ़ने वाले जवद्याजथणयो ंकी संख्या जकतनी है?
+The above figure shows those students of the class. Who studies three languages. What is the number of students studying only one language?
+"100 ","45 ","4 ","64"
+64
+ch_23
+
+16
+उपयुणक्त वेन आरेि उन छात्रो ंको िशाणता है, िो एक कक्षा में 3 िेल M. N और L िेलते हैं। िेल M िेलने वाले छात्रो ंकी कुल संख्या है:
+The above Venn diagram shows the students who play 3 games M. N and L in a class. The total number of students playing game M is:
+"11 ","7 ","32 ","21"
+32 
+ch_23
+
+17
+जिया गया डायग्राम एक कक्षा में 3 भाषाओ ं का अध्ययन करने वाले छात्रो ंकी संख्या को िशाणता है। केवल िो भाषाएँ पढ़ने वाले छात्रो ंकी संख्या जकतनी है ?
+The given diagram shows the number of students studying 3 languages in a class. What is the number of students studying only two languages?
+"32 ","100 ","45 ","64"
+32 
+ch_23
+
+18
+एक जवद्यालय के जवद्याथी तीन अलग-अलग िेल िेलते हैं। नीचे जिया गया आरेि प्रत्येक िेल िेलने वाले छात्रो ंकी संख्या िशाणता है। कौन-सा भाग उन खिलाजड़यो ंको िशाणता है िो फुटबॉल और कबड्डी िेलते हैं लेजकन जक्रकेट नही ंिेलते?
+Students of a school play three different sports. The diagram given below shows the number of students playing each game. Which part represents the players who play football and kabaddi but not cricket?
+"P + Q + R ","V + T ","S + T + V ","Q"
+Q
+ch_23
+
+19
+उपरोक्त वेन जचत्र उन छात्रो ंको िशाणता है,िो कक्षा में 3 िेल M, N व L िेलते हैं। िो न्यूनतम िो िेल िेलते हैं, ऐसे छात्रो ंकी कुल संख्या है:
+The above Venn diagram shows students who play 3 games M, N and L in the class. The total number of students who play minimum two sports is:
+"28 ","31 ","35 ","30"
+30
+ch_23
+
+20
+उपरोक्त वेन आरेि, जकसी कक्षा में उन जवद्याजथणयो ंको िशाणता है, िो तीन िेल M, N और L िेलते हैं। N एवं L िेल िेलने वाले, परंतु M िेल न िेलने वाले जवद्याजथणयो ंकी कुल संख्या ______ हैं
+The above Venn diagram shows the students in a class who play three games M, N and L. The total number of students playing games N and L, but not playing M is ______
+"15 ","68 ","9 ","12"
+9 
+ch_23
+
+21
+इस रेिाजचत्र में 3 भाषाओ ं का अध्ययन करने वाले छात्रो ं की संख्या िशाणई गई है। िो भाषाओ ंका अध्ययन कर रहे छात्रो ंकी संख्या है:
+This graph shows the number of students studying 3 languages. The number of students studying two languages is:
+"45 ","100 ","64 ","32"
+32
+ch_23
+
+22
+यह आरेि एक कक्षा में फुटबॉल (F), हॉकी (H) और बास्केटबाल (B) िेलने वाले छात्रो ं की संख्या िशाणता है, वास्तव में िो िेल िेलने वाले छात्रो ंकी कुल संख्या है:
+This diagram shows the number of students playing football (F), hockey (H) and basketball (B) in a class, the total number of students actually playing the two sports is:
+"41 ","39 ","80 ","54"
+39 
+ch_23
+
+23
+जनम्न वेन आरेि व्यवसाजयक प्रजशक्षर् A, B और C लेने वाले कुल 50 छात्रो ंको िशाणता है। इनमें से प्रत्येक कम से कम एक प्रजशक्षर् सत्र में भाग लेता है। जकतने छात्र केवल िो प्रजशक्षर् सत्रो ं में उपखित हैं?
+The following Venn diagram shows a total of 50 students taking vocational training A, B and C. Each of them attends at least one training session. How many students are present in only two training sessions?
+"13 ","20 ","18 ","32"
+13 
+ch_23
+
+24
+जनम्न जचत्र लड़जकयो ंके एक समूह की रंग वरीयताओ ंको जििाता है। वृत्त गुलाबी रंग का प्रजतजनजित्व करता है, जत्रभुि नीले रंग का प्रजतजनजित्व करता है और आयत सफेि रंग का प्रजतजनजित्व करता है। लड़जकयो ंका कौन सा समूह नीले और गुलाबी रंग को पसंि करता है परन्तु सफेि रंग को नही?ं
+The following picture shows the color preferences of a group of girls. The circle represents pink color, the triangle represents blue color and the rectangle represents white color. Which group of girls likes blue and pink but not white?
+"s ","p + v + q ","v ","q + v"
+p + v + q 
+ch_23
+
+25
+जिए गए वेन आरेि में कॉलेि के 77 छात्रो ं के समूह की िेल प्राथजमकताओ ंका प्रजतजनजित्व जिया गया है। तीन िेल A, B और C हैं। जकतने छात्र C और A िेल िेलना पसंि करते है । परन्तु B नही ं?
+The given Venn diagram represents the sports preferences of a group of 77 college students. There are three games A, B and C. How many students like to play C and A game? But not B?
+"15 ","33 ","10 ","23"
+23
+ch_23
+
+26
+जिया गया आरेि एक कक्षा में फुटबॉल (F) हॉकी (H) और बास्केटबॉल (B) िेलने वाले छात्रो ंकी संख्या िशाणता है- अजिकतम िो िेल पसंि करने वाले छात्रो ंकी कुल संख्या है :
+The given diagram shows the number of students playing Football (F), Hockey (H) and Basketball (B) in a class. The total number of students who like maximum two sports is :
+"39 ","54 ","41 ","80"
+80
+ch_23
+
+27
+जनम्नजलखित वेन आरेि में, आयत RPS समथणको ं की संख्या का प्रजतजनजित्व करता है, जत्रकोर् MI समथणको ं की संख्या का प्रजतजनजित्व करता है और वृत्त KKR समथणको ं की संख्या का प्रजतजनजित्व करता है। उनमें से जकतने KKR और केवल एक अन्य टीम का समथणन करते हैं?
+In the following Venn diagram, the rectangle represents the number of RPS supporters, the triangle represents the number of MI supporters and the circle represents the number of KKR supporters. How many of them support KKR and only one other team?
+"8 ","10 ","2 ","6"
+8 
+ch_23
+
+28
+जिए गए वेन आरेि में जत्रकोर् स्वि लोगो ंप्रजतजनजित्व करता है, आयत बूढ़े व्यखक्तयो ंका प्रजतजनजित्व करता है और सकणल पुरुषो ं का प्रजतजनजित्व करता है। स्वि लेजकन बूढ़े लोगो ंकी संख्या क्या है?
+In the given Venn diagram the triangle represents healthy people, the rectangle represents old people and the circle represents men. What is the number of healthy but old people?
+"4 ","3 ","2 ","6"
+4 
+ch_23
+
+29
+जिया गया वेन आरेि, कॉलेि छात्रो ं के एक समूह की िेल प्राथजमकताओ ं का प्रजतजनजित्व करता है। तीन िेल - A- बैडजमंटन, B- बॉस्केटबॉल और C- टेजनस है। इन तीनो ंमें से िो िेलो ंको वास्तव में जकतने छात्र िेलना पसंि करते हैं?
+The given Venn diagram represents the sports preferences of a group of college students. There are three sports – A- Badminton, B- Basketball and C- Tennis. How many students actually like to play two of these three games?
+"35 ","17 ","5 ","37"
+37
+ch_23
+
+30
+नीचे जिया गया आरेि कक्षा में फुटबॉल (F), हॉकी (H) और बास्केटबॉल (B) िेलने वाले जवद्याजथणयो ंकी संख्या िशाणता है। कम से कम िो िेल िेलने वाले जवद्याजथणयो ंकी कुल संख्या क्या है?
+The diagram given below shows the number of students playing Football (F), Hockey (H) and Basketball (B) in the class. What is the total number of students playing at least two sports?
+"41 ","39 ","54 ","80"
+54 
+ch_23
+
+31
+नीचे जिया गया वेन आरेि एक कक्षा में फुटबॉल (F), हॉकी (H) और बास्केटबॉल (B) िेलने वाले छात्रो ंकी संख्या िशाणता है। F और H िेलने वाले, जकन्तु B न िेलने वाले छात्रो ं की कुल संख्या ज्ञात कीजिए?
+The Venn diagram given below shows the number of students playing football (F), hockey (H) and basketball (B) in a class. Find the total number of students who played F and H, but not B?
+"33 ","21 ","12 ","27"
+12 
+ch_23
+
+32
+जनम्न वेन आरेि 50 छात्रो ंको िशाणता है िो व्यवसाजयक प्रजशक्षर् सत्र A, B और C में भाग लेते हैं। प्रत्येक छात्र कम से कम एक प्रजशक्षर् सत्र में भाग लेता है। प्रजशक्षर् सत्रो ंमें केवल िो सत्र में वास्तव में जकतने छात्र भाग लेते हैं?
+The following Venn diagram shows 50 students who attend vocational training sessions A, B and C. Every student attends at least one training session. How many students actually attend the training sessions in just two sessions?
+"8 ","4 ","13 ","5"
+13 
+ch_23
+
+33
+नीचे जिया गया आरेि, कक्षा में फुटबॉल (F), हॉकी (H) और बास्केबॉल (B) िेलने वाले जवद्याजथणयो ं की संख्या िशाणता है। F और B िेलने वाले लेजकन H न िेलने वाले जवद्याजथणयो ंकी कुल संख्या क्या है?
+The diagram given below shows the number of students playing Football (F), Hockey (H) and Basketball (B) in the class. What is the total number of students who played F and B but not H?
+"28 ","29 ","42 ","13"
+13
+ch_23
+
+34
+जिया गया वेन आरेि कॉलेि के छात्रो ं के एक समूह की िेल वरीयताओ ं का प्रजतजनजित्व करता है। तीन िेल : A- बैडजमंटन, B- बॉस्केटबॉल और C - टेजनस हैं। जकतने छात्र बैडजमंटन या बॉस्केटबॉल िेलते हैं परंतु टेजनस नही ंिेलते ?
+The given Venn diagram represents the sports preferences of a group of college students. There are three sports: A- Badminton, B- Basketball and C- Tennis. How many students play badminton or basketball but not tennis?
+"37 ","15 ","30 ","20"
+37 
+ch_23
+
+35
+नीचे जिए गए वेन आरेि का अध्ययन करके आगे जिए गए।प्रश्न का उत्तर िें। वेन आरेि एक कक्षा में तीन जवषयो ंका अध्ययन करने वाले छात्र िशाणता है। फ्रैंच और स्पैजनश पढ़ने वाले लेजकन िापानी न पढ़ने वाले छात्रो ंकी संख्या जकतनी है?
+Study the Venn diagram given below and answer the following questions. The Venn diagram shows students studying three subjects in a class. What is the number of students who study French and Spanish but not Japanese?
+"29 ","4 ","20 ","24"
+20 
+ch_23
+
+36
+यह जचत्र एक कक्षा में 3 भाषाओ ंका अध्ययन करने वाले छात्रो ंकी संख्या को िशाणता है। ऐसे जकतने छात्र हैं िो स्पेजनश और िापानी का अध्ययन करते हैं, पर फ्रेंच का नही ं
+The figure shows the number of students studying 3 languages in a class. How many students are there who study Spanish and Japanese, but not French?
+"7 ","11 ","32 ","4"
+7 
+ch_23
+
+37
+उपरोक्त वेन आरेि एक कक्षा में िेले गए तीन िेल M, N और L को िशाणता है। कुल जवद्याजथणयो ंकी संख्या बताएं जिन्होनं े M और L िेला मगर िेल N नही ंिेला-
+The above Venn diagram shows three games M, N and L played in a class. Find the total number of students who played M and L but not game N.
+"36 ","13 ","15 ","7"
+7
+ch_23
+
+38
+एक इलाके में जकए गए सवेक्षर् में, यह पाया गया जक 50%लोग A नामक समाचार पत्र पढ़ते हैं, 40%लोग B नामक समाचार पत्र पढते है, और 20%न तो समाचार पत्र A पढते हैं और न ही समाचार पत्र B पढते है। यजि A और B िोनो ंसमाचार पत्र पढ़ने वाले व्यखक्तयो ं की संख्या 500 है, तो जकतने लोगो का सवेक्षर् जकया गया था?
+In a survey conducted in a locality, it was found that 50% people read newspaper A, 40% read newspaper B, and 20% neither read newspaper A nor newspaper B. . If the number of people reading both newspapers A and B is 500, then how many people were surveyed?
+"7000 ","4500 ","5000 ","3000"
+5000 
+ch_23
+
+39
+उपरोक्त जचत्र कक्षा के उन छात्रो ं की संख्या िशाणता है, िो 3 भाषाओ ं का अध्ययन करते हैं। तीनो ं भाषाओ ं फ्रेंच, स्पेजनश व िापानी का अध्ययन करने वाले छात्रो ंकी कुल संख्या है-
+The above figure shows the number of students in a class who study 3 languages. The total number of students studying the three languages French, Spanish and Japanese is-
+"100 ","4 ","16 ","41"
+4 
+ch_23
+
+40
+जनम्न आरेि का ध्यानपूवणक अध्ययन करें और नीचे जिए गए प्रश्न का उत्तर िें: उन छात्रो ं की कुल संख्या क्या है, जिन्होनं े अंग्रेिी या गजर्त या सामाजिक जवज्ञान जलया है?
+Study the following diagram carefully and answer the question given below: What is the total number of students who have taken English or Mathematics or Social Science?
+"185 ","180 ","183 ","175"
+183 
+ch_23
+
+41
+जनम्नजलखित आकृजत में जत्रकोर् 'लड़जकयो ं का' और वगण 'खिलाड़ी' और सकणल 'कोच' का प्रजतजनजित्व करता है। आरेि का कौन सा जहस्सा उन लड़जकयो ंका प्रजतजनजित्व करता हैं, िो खिलाड़ी भी हैं और कोच भी हैं?
+In the following figure the triangle represents 'Girls' and the square represents 'Players' and the circle represents 'Coaches'. Which part of the diagram represents girls who are both players and coaches?
+"R ","S ","Q ","P"
+R 
+ch_23
+
+42
+उपरोक्त वेन आरेि, 3 प्रकार के िेल, M, N और L में जकसी कक्षा से भाग लेने वाले जवद्याजथणयो ंका प्रजतजनजित्व करता है। सभी तीन िेलो ंमें भाग लेने वाले जवद्याजथणयो ंकी कुल संख्या है:
+The above Venn diagram represents the students participating from a class in 3 types of games, M, N and L. The total number of students participating in all three sports is:
+"64 ","6 ","100 ","30"
+6 
+ch_23
+
+43
+जिए गए वेन आरेि उन छात्रो ंको िशाणता है िो 40 छात्रो ंकी एक कक्षा में फुटबॉल, बास्केटबॉल और हॉकी पसंि करते हैं। कम से कम एक िेल पसंि करने वाले छात्रो ंकी कुल संख्या है:
+The given Venn diagram shows the students who like Football, Basketball and Hockey in a class of 40 students. The total number of students who like at least one sport is:
+"40 ","30 ","10 ","20"
+40 
+ch_23
+
+44
+जिया गया वेन आरेि, कॉलेि के छात्रो ं के समूह की िेल प्राथजमकताओ ं का प्रजतजनजित्व करता है। तीन िेल A - बैडजमंटन, B- बास्केटबॉल और C-टेजनस हैं। जकतने छात्र कम से कम एक िेल िेलते हैं?
+The given Venn diagram represents the sports preferences of a group of college students. The three sports are A- Badminton, B- Basketball and C- Tennis. How many students play at least one sport?
+"77 ","35 ","17 ","5"
+77 
+ch_23
+
+45
+जचत्र एक कक्षा में 3 भाषाओ ं का अध्ययन करने वाले छात्रो ं की संख्या को िशाणता है। कक्षा में पढ़ने वाले छात्रो ं की कुल संख्या जकतनी है?
+The figure shows the number of students studying 3 languages in a class. What is the total number of students studying in the class?
+"100 ","45 ","101 ","64"
+100 
+ch_23
+
+46
+उपरोक्त वेन डायग्राम एक कक्षा में तीन िेल M, N और L िेलने वाले छात्रो ंको िशाणता है। कक्षा में छात्रो ंकी कुल संख्या है:
+The above Venn diagram shows students playing three games M, N and L in a class. The total number of students in the class is:
+"100 ","102 ","101 ","98"
+100 
+ch_23
+
+47
+एक कॉलेि में छात्रो ंकी संख्या 5000 है। इनमें से, 3500 छात्रो ं को कॉफी पसंि है, 2500 छात्रो ं को चाय पसंि है और 2000 छात्रो ंको िोनो,ं चाय व कॉफी पसंि है। जकतने ऐसे छात्र हैं, जिन्हें इन िोनो ंमें से कोई भी पेय पसंि नही ंहै?
+The number of students in a college is 5000. Out of these, 3500 students like coffee, 2500 students like tea and 2000 students like both tea and coffee. How many students are there who do not like either of these two drinks?
+"1500 ","1000 ","500 ","2000"
+1000 
+ch_23
+
+48
+5000 की आबािी वाले एक कस्बे में 3200 लोग चाय पीते है, 2500 लोग कॉफी पीते है और 1500 लोग चाय ओर कॉफी िोनो ं पीते है। उनमें से जकतने लोग न तो चाय पीते है और न ही कॉफी?
+In a town with population of 5000, 3200 people drink tea, 2500 people drink coffee and 1500 people drink both tea and coffee. How many of them drink neither tea nor coffee?
+"800 ","770 ","900 ","1800"
+800 
+ch_23
+
